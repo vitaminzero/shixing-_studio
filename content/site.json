@@ -1,0 +1,1719 @@
+{
+  "featuredReel": {
+    "title": {
+      "zh": "十行动态视觉混剪",
+      "en": "Shixing Motion Reel"
+    },
+    "description": {
+      "zh": "这里预留给首页主视觉视频。建议使用 10-20 秒静音循环 WebM/MP4，展示视觉动画、品牌动效或项目混剪。",
+      "en": "Reserved for the home motion reel. A 10-20 second muted WebM/MP4 loop is recommended for motion identity, brand animation, or project highlights."
+    },
+    "poster": "assets/brand/generated-motion-hero.png",
+    "video": ""
+  },
+  "capabilities": [
+    {
+      "title": {
+        "zh": "商业影像合成",
+        "en": "Commercial Compositing"
+      },
+      "description": {
+        "zh": "面向商业短片、宣传片与实拍内容的画面合成、修补、增强和视觉整合。",
+        "en": "Compositing, cleanup, enhancement, and visual integration for commercial films, promotional videos, and live-action content."
+      }
+    },
+    {
+      "title": {
+        "zh": "动画包装与动态视觉",
+        "en": "Motion Packaging & Dynamic Visuals"
+      },
+      "description": {
+        "zh": "为品牌、游戏内容和传播项目提供片头、信息包装、动态版式与节奏化视觉表达。",
+        "en": "Title sequences, information packaging, motion layouts, and rhythm-driven visual expression for brands, game content, and communication projects."
+      }
+    },
+    {
+      "title": {
+        "zh": "AIGC视觉增强",
+        "en": "AIGC Visual Enhancement"
+      },
+      "description": {
+        "zh": "探索 AI 工具在实拍合成、商业影像增强、动态包装和导演型短片中的可控应用。",
+        "en": "Exploring controlled AI-assisted workflows for live-action compositing, commercial image enhancement, motion packaging, and director-led short films."
+      }
+    }
+  ],
+  "projects": [
+    {
+      "title": {
+        "zh": "「千星奇域」奇匠短片｜原神",
+        "en": "Miliastra Wonderland Artisan Short Film - Journey of Inspiration Begins Here | Genshin Impact"
+      },
+      "year": "2026",
+      "client": {
+        "zh": "米哈游 / 原神",
+        "en": "miHoYo / Genshin Impact"
+      },
+      "role": {
+        "zh": "实拍合成部分",
+        "en": "Live-action compositing"
+      },
+      "mediaType": "video",
+      "coverImage": "assets/projects/genshin-qianxing-cover.jpg",
+      "coverVideo": "",
+      "videoUrl": "",
+      "motionClips": [],
+      "gallery": [
+        "assets/projects/genshin-qianxing-cover.jpg"
+      ],
+      "summary": {
+        "zh": "公开项目。参与「千星奇域」奇匠短片的实拍合成部分，服务于原神相关内容传播与短片视觉呈现。",
+        "en": "A public project. TYC contributed to the live-action compositing for the Miliastra Wonderland artisan short film for Genshin Impact-related content communication."
+      },
+      "detail": {
+        "zh": "该项目为米哈游 / 原神公开短片「千星奇域」奇匠短片。TYC 参与其中的实拍合成部分，负责将实拍素材与视觉元素整合到短片画面中，增强内容的沉浸感、趣味性和传播表现。",
+        "en": "This public miHoYo / Genshin Impact short film is \"Miliastra Wonderland Artisan Short Film - Journey of Inspiration Begins Here.\" TYC contributed to the live-action compositing, integrating live-action footage and visual elements to strengthen immersion, playfulness, and content impact."
+      },
+      "sourceNote": {
+        "zh": "可公开展示。图片、视频或封面来自你提供的项目素材；公开链接为对应平台视频。",
+        "en": "Publicly displayable. Cover and local video are from your provided project materials; the public link is the official YouTube video."
+      },
+      "externalLinks": [
+        {
+          "label": {
+            "zh": "YouTube 公开链接",
+            "en": "YouTube Public Link"
+          },
+          "url": "https://www.youtube.com/watch?v=D794Dc8HEBk"
+        }
+      ],
+      "caseClass": "A",
+      "caseRank": 1,
+      "displayLevel": "publicLink",
+      "displayNote": {
+        "zh": "公开链接展示。TYC 参与范围以本页说明为准；完整视频请查看对应公开平台链接。",
+        "en": "Public-link view. TYC participation is described on this page; please use the public platform link for the full video."
+      }
+    },
+    {
+      "title": {
+        "zh": "无畏契约北京宣传片｜五一去够格的地方玩",
+        "en": "VALORANT Beijing Promo Film | Spend May Day Somewhere Worthy"
+      },
+      "year": "2026",
+      "client": {
+        "zh": "无畏契约 / 北京巡回",
+        "en": "VALORANT / Beijing Tour"
+      },
+      "role": {
+        "zh": "特效实拍合成动画 / 包装动画 / Bug 擦除（除最后一段外）",
+        "en": "VFX live-action compositing animation / packaging animation / bug cleanup, excluding the final section"
+      },
+      "mediaType": "video",
+      "coverImage": "assets/projects/valorant-beijing-building-growth.png",
+      "coverVideo": "",
+      "videoUrl": "",
+      "motionClips": [],
+      "gallery": [
+        "assets/projects/valorant-beijing-building-growth.png",
+        "assets/projects/valorant-beijing-package-a.png",
+        "assets/projects/valorant-beijing-flag-drop-poster.jpg"
+      ],
+      "summary": {
+        "zh": "公开项目。参与无畏契约北京宣传片中除最后一段之外的特效实拍合成动画、包装动画和 Bug 擦除。",
+        "en": "A public project. TYC contributed VFX live-action compositing animation, packaging animation, and bug cleanup for the VALORANT Beijing promo film, excluding the final section."
+      },
+      "detail": {
+        "zh": "TYC 参与该宣传片中除最后一段之外的特效实拍合成动画、包装动画和 Bug 擦除，将实拍场景、赛事音乐视觉包装和动态特效整合到宣传片节奏中。",
+        "en": "This project is the VALORANT Beijing promo film \"Spend May Day Somewhere Worthy.\" TYC contributed VFX live-action compositing animation, packaging animation, and bug cleanup, excluding the final section, integrating live-action scenes, event/music visual packaging, and dynamic effects into the promo rhythm."
+      },
+      "sourceNote": {
+        "zh": "可公开展示。图片、视频或封面来自你提供的项目素材；公开链接为对应平台视频。",
+        "en": "Publicly displayable. Images and videos are from your provided project materials; the public link is the Bilibili video."
+      },
+      "externalLinks": [
+        {
+          "label": {
+            "zh": "Bilibili 公开链接",
+            "en": "Bilibili Public Link"
+          },
+          "url": "https://www.bilibili.com/video/BV1i79hBSEmj/"
+        }
+      ],
+      "caseClass": "A",
+      "caseRank": 2,
+      "displayLevel": "publicLink",
+      "displayNote": {
+        "zh": "公开链接展示。TYC 参与范围以本页说明为准；完整视频请查看对应公开平台链接。",
+        "en": "Public-link view. TYC participation is described on this page; please use the public platform link for the full video."
+      }
+    },
+    {
+      "title": {
+        "zh": "《鸟，为什么会飞？》｜崩坏：星穹铁道",
+        "en": "Why Do Birds Fly? | Honkai: Star Rail"
+      },
+      "year": "2026",
+      "client": {
+        "zh": "米哈游 / 崩坏：星穹铁道",
+        "en": "miHoYo / Honkai: Star Rail"
+      },
+      "role": {
+        "zh": "传统合成执行 / AIGC 关键帧探索与方法支持",
+        "en": "Compositing execution / AIGC keyframe exploration / visual workflow support"
+      },
+      "mediaType": "video",
+      "coverImage": "assets/projects/hsr-birds-fly-cover.png",
+      "coverVideo": "",
+      "videoUrl": "",
+      "motionClips": [],
+      "gallery": [
+        "assets/projects/hsr-birds-fly-cover.png"
+      ],
+      "summary": {
+        "zh": "公开项目。本案例展示传统合成执行片段，涵盖屏幕内容合成、实拍画面修补与视觉元素整合；AIGC 段落中，TYC 主要提供关键帧探索与方法支持。",
+        "en": "A public project. This case presents traditional compositing execution clips, including screen-content compositing, live-action cleanup, and visual element integration. For AIGC sections, TYC mainly provided keyframe exploration and workflow support."
+      },
+      "detail": {
+        "zh": "本案例展示《鸟，为什么会飞？》中的传统合成执行片段，涵盖屏幕内容合成、实拍画面修补与视觉元素整合。TYC 参与部分镜头的后期合成执行，将实拍素材、屏幕内容与视觉元素整理进可交付画面。\n\n在 AIGC 相关段落中，TYC 主要提供关键帧探索与方法支持，帮助团队明确画面方向和可落地路径，并非全片 AIGC 生成归属。",
+        "en": "This case presents traditional compositing execution from Why Do Birds Fly?, including screen-content compositing, live-action cleanup, and visual element integration. TYC contributed to selected shots by organizing live-action footage, screen material, and visual elements into deliverable frames.\n\nFor AIGC-related sections, TYC mainly provided keyframe exploration and method support, helping the team clarify image direction and practical implementation paths. This does not indicate ownership of full-film AIGC generation."
+      },
+      "sourceNote": {
+        "zh": "可公开展示。封面与本地视频来自你提供的项目素材；公开链接为 Bilibili 视频。AIGC 部分为关键帧探索与方法支持，并非全片生成归属。",
+        "en": "Publicly displayable. Cover and local clips are from your provided project materials; the public link is the Bilibili video. AIGC work refers to keyframe exploration and workflow support, not full-film generation ownership."
+      },
+      "externalLinks": [
+        {
+          "label": {
+            "zh": "Bilibili 公开链接",
+            "en": "Bilibili Public Link"
+          },
+          "url": "https://www.bilibili.com/video/BV1eRXrB3EQ7/?spm_id_from=333.337.search-card.all.click&vd_source=b85e87025b62ef509a0dd1c1709f4af9"
+        }
+      ],
+      "caseClass": "AIGC",
+      "caseRank": 3,
+      "displayLevel": "publicLink",
+      "displayNote": {
+        "zh": "公开链接展示。TYC 参与范围以本页说明为准；完整视频请查看对应公开平台链接。",
+        "en": "Public-link view. TYC participation is described on this page; please use the public platform link for the full video."
+      }
+    },
+    {
+      "title": {
+        "zh": "王者荣耀 x 北大历史系｜蛇年限定皮肤设计首曝",
+        "en": "Honor of Kings x Peking University History Department | Year of the Snake Skin Design Reveal"
+      },
+      "year": "2025",
+      "client": {
+        "zh": "腾讯 / 王者荣耀",
+        "en": "Tencent / Honor of Kings"
+      },
+      "role": {
+        "zh": "几乎全片的特效动画 / 包装 / 擦除",
+        "en": "VFX animation, packaging, and cleanup across nearly the full film"
+      },
+      "mediaType": "video",
+      "coverImage": "assets/projects/hok-snake-cover.png",
+      "coverVideo": "",
+      "videoUrl": "",
+      "motionClips": [],
+      "gallery": [
+        "assets/projects/hok-snake-cover.png",
+        "assets/projects/hok-snake-still-07.png",
+        "assets/projects/hok-snake-still-08.png"
+      ],
+      "summary": {
+        "zh": "公开项目。参与蛇年限定皮肤设计首曝视频，负责几乎全片的特效动画、包装与擦除相关部分。",
+        "en": "A public project for the Honor of Kings x Peking University History Department Year of the Snake skin reveal. TYC handled VFX animation, packaging, and cleanup across nearly the full film."
+      },
+      "detail": {
+        "zh": "TYC 参与几乎整支影片的特效动画、包装和擦除部分，将中国纹样、祈愿叙事、角色皮肤视觉和实拍/画面素材整合为具有节庆感与文化感的动态内容。",
+        "en": "This Tencent / Honor of Kings collaboration with the Peking University History Department reveals the Year of the Snake limited skin theme. TYC contributed VFX animation, packaging, and cleanup across nearly the full film, integrating Chinese pattern motifs, wish-making narrative, skin visuals, and live-action/screen material into a culturally rich motion piece."
+      },
+      "sourceNote": {
+        "zh": "可公开展示。图片、视频或封面来自你提供的项目素材；公开链接为对应平台视频。",
+        "en": "Publicly displayable. Images and videos are from your provided project materials; the public link is the Bilibili video."
+      },
+      "externalLinks": [
+        {
+          "label": {
+            "zh": "Bilibili 公开链接",
+            "en": "Bilibili Public Link"
+          },
+          "url": "https://www.bilibili.com/video/BV1WrwPeEEs2/"
+        }
+      ],
+      "caseClass": "A",
+      "caseRank": 4,
+      "displayLevel": "publicLink",
+      "displayNote": {
+        "zh": "公开链接展示。TYC 参与范围以本页说明为准；完整视频请查看对应公开平台链接。",
+        "en": "Public-link view. TYC participation is described on this page; please use the public platform link for the full video."
+      }
+    },
+    {
+      "title": {
+        "zh": "王者荣耀中华草木精神人物纪录片",
+        "en": "Honor of Kings Chinese Flora Spirit Documentary | Village Doctor, Sericulture Workers, and Plateau Girl"
+      },
+      "year": "2024",
+      "client": {
+        "zh": "腾讯 / 王者荣耀",
+        "en": "Tencent / Honor of Kings"
+      },
+      "role": {
+        "zh": "纪录片后期包装 / 动效片段 / 画面支持",
+        "en": "Documentary post packaging / motion segments / visual support"
+      },
+      "mediaType": "video",
+      "coverImage": "assets/projects/hok-caomu-cover.png",
+      "coverVideo": "",
+      "videoUrl": "",
+      "motionClips": [],
+      "gallery": [
+        "assets/projects/hok-caomu-cover.png",
+        "assets/projects/hok-caomu-still-01.png",
+        "assets/projects/hok-caomu-still-02.png"
+      ],
+      "summary": {
+        "zh": "公开项目。以村医、蚕农与高原女孩为人物线索，展示草木精神与真实人物故事。",
+        "en": "A public Honor of Kings documentary project about Chinese flora spirit, following a village doctor, sericulture workers, and a plateau girl through real human stories."
+      },
+      "detail": {
+        "zh": "该案例通过主封面、代表性视频片段和精选画面展示纪录片包装、动效段落与画面支持内容。",
+        "en": "This Tencent / Honor of Kings documentary project presents the spirit of Chinese flora through real people and lived environments. The case is shown through the main cover, five representative video clips, and selected frames to communicate documentary packaging, motion segments, and visual support work."
+      },
+      "sourceNote": {
+        "zh": "可公开展示。图片、视频或封面来自你提供的项目素材；公开链接为对应平台视频。",
+        "en": "Publicly displayable. Cover, clips, and stills are from your provided project materials; the public link is the Bilibili video."
+      },
+      "externalLinks": [
+        {
+          "label": {
+            "zh": "Bilibili 公开链接",
+            "en": "Bilibili Public Link"
+          },
+          "url": "https://www.bilibili.com/video/BV1rd1tYMEEL/"
+        }
+      ],
+      "caseClass": "A",
+      "caseRank": 5,
+      "displayLevel": "publicLink",
+      "displayNote": {
+        "zh": "公开链接展示。TYC 参与范围以本页说明为准；完整视频请查看对应公开平台链接。",
+        "en": "Public-link view. TYC participation is described on this page; please use the public platform link for the full video."
+      }
+    },
+    {
+      "title": {
+        "zh": "2024CFM周年庆玩家年度系列纪录：河南篇",
+        "en": "2024 CFM Anniversary Player Annual Documentary: Henan"
+      },
+      "year": "2024",
+      "client": {
+        "zh": "CFM / 穿越火线手游",
+        "en": "CFM / CrossFire Mobile"
+      },
+      "role": {
+        "zh": "实拍合成动画",
+        "en": "Live-action compositing animation"
+      },
+      "mediaType": "video",
+      "coverImage": "assets/projects/cfm-henan-cover.png",
+      "coverVideo": "",
+      "videoUrl": "",
+      "motionClips": [],
+      "gallery": [
+        "assets/projects/cfm-henan-cover.png"
+      ],
+      "summary": {
+        "zh": "公开项目。参与 2024 CFM 周年庆玩家年度系列纪录河南篇的实拍合成动画，以本地片段展示画面合成、动画包装与纪录片视觉内容支持。",
+        "en": "A public project. TYC contributed live-action compositing animation for the 2024 CFM Anniversary Player Annual Documentary: Henan, with local clips showing image compositing, motion packaging, and documentary visual support."
+      },
+      "detail": {
+        "zh": "该项目为 2024 CFM 周年庆玩家年度系列纪录河南篇。TYC 参与实拍合成动画部分，将实拍画面、动态元素与纪录片叙事节奏结合，服务于玩家故事、地域主题和周年庆传播内容的视觉呈现。",
+        "en": "This project is the Henan chapter of the 2024 CFM Anniversary Player Annual Documentary series. TYC contributed live-action compositing animation, combining live-action footage, motion elements, and the documentary narrative rhythm to support the visual presentation of player stories, regional themes, and anniversary communication."
+      },
+      "sourceNote": {
+        "zh": "可公开展示。封面与本地视频来自你提供的项目素材；公开链接为 Bilibili 视频。",
+        "en": "Publicly displayable. Cover and local videos are from your provided project materials; the public link is the Bilibili video."
+      },
+      "externalLinks": [
+        {
+          "label": {
+            "zh": "Bilibili 公开链接",
+            "en": "Bilibili Public Link"
+          },
+          "url": "https://www.bilibili.com/video/BV14fi9YfEmg/?spm_id_from=333.337.search-card.all.click&vd_source=b85e87025b62ef509a0dd1c1709f4af9"
+        }
+      ],
+      "caseClass": "A",
+      "caseRank": 6,
+      "displayLevel": "publicLink",
+      "displayNote": {
+        "zh": "公开链接展示。TYC 参与范围以本页说明为准；完整视频请查看对应公开平台链接。",
+        "en": "Public-link view. TYC participation is described on this page; please use the public platform link for the full video."
+      }
+    },
+    {
+      "title": {
+        "zh": "天生冒险家｜英雄联盟 13 周年公益纪录片",
+        "en": "Born Adventurer | League of Legends 13th Anniversary Charity Documentary"
+      },
+      "year": "2024",
+      "client": {
+        "zh": "腾讯 / 英雄联盟公益",
+        "en": "Tencent / League of Legends Charity"
+      },
+      "role": {
+        "zh": "后期特效包装 / 擦除 / 动效补充 / 实拍合成修补",
+        "en": "Post VFX packaging / cleanup / motion additions / live-action compositing repair"
+      },
+      "mediaType": "video",
+      "coverImage": "assets/projects/lol-adventurer-cover.png",
+      "coverVideo": "",
+      "videoUrl": "",
+      "motionClips": [],
+      "gallery": [
+        "assets/projects/lol-adventurer-cover.png",
+        "assets/projects/lol-adventurer-still-16.png",
+        "assets/projects/lol-adventurer-still-17.png"
+      ],
+      "summary": {
+        "zh": "公开项目。参与英雄联盟 13 周年公益纪录片的后期包装、擦除、动效补充与实拍合成修补。",
+        "en": "A public League of Legends charity documentary project. TYC contributed post VFX packaging, bug/continuity/visual cleanup, motion additions, and live-action compositing repairs across the film."
+      },
+      "detail": {
+        "zh": "TYC 参与纪录片中的后期特效包装、画面修补、动效补充与实拍合成处理，服务于公益叙事、人物表达和品牌情感呈现。",
+        "en": "This is a full-film post-production support case. The work is distributed across multiple sections and shots, so a single isolated clip cannot fully communicate the overall workload. This case therefore combines the cover, representative hand-drawn elements, selected frames, and role description to help clients clearly understand TYC's specific contribution and execution scope.\n\nTYC was mainly responsible for packaging animation across the film, bug / continuity / visual imperfection cleanup, scattered motion additions, and live-action compositing repairs. The work provided continuous, detailed, and stable visual post-production support, helping the final film feel more unified in polish, detail correction, and overall viewing quality."
+      },
+      "sourceNote": {
+        "zh": "可公开展示。图片、视频或封面来自你提供的项目素材；公开链接为对应平台视频。",
+        "en": "Publicly displayable. Cover, video, and stills are from your provided project materials; the public link is the Bilibili video."
+      },
+      "externalLinks": [
+        {
+          "label": {
+            "zh": "Bilibili 公开链接",
+            "en": "Bilibili Public Link"
+          },
+          "url": "https://www.bilibili.com/video/BV1hHHZe8E4H/"
+        }
+      ],
+      "caseClass": "A",
+      "caseRank": 7,
+      "displayLevel": "publicLink",
+      "displayNote": {
+        "zh": "公开链接展示。TYC 参与范围以本页说明为准；完整视频请查看对应公开平台链接。",
+        "en": "Public-link view. TYC participation is described on this page; please use the public platform link for the full video."
+      }
+    },
+    {
+      "title": {
+        "zh": "DNF 15 周年宣传片｜你与阿拉德的故事",
+        "en": "DNF 15th Anniversary Promo Film | Your Story with Arad"
+      },
+      "year": "2023",
+      "client": {
+        "zh": "腾讯 / 地下城与勇士",
+        "en": "Tencent / Dungeon & Fighter (DNF)"
+      },
+      "role": {
+        "zh": "全片特效包装 / 跟踪合成 / 屏幕合成 / 实拍清理",
+        "en": "Full-film VFX packaging / tracking compositing / screen compositing / live-action cleanup"
+      },
+      "mediaType": "video",
+      "coverImage": "assets/projects/dnf-15th-cover.png",
+      "coverVideo": "",
+      "videoUrl": "",
+      "motionClips": [],
+      "gallery": [
+        "assets/projects/dnf-15th-cover.png",
+        "assets/projects/dnf-15th-still-2.png",
+        "assets/projects/dnf-15th-still-3.png"
+      ],
+      "summary": {
+        "zh": "公开项目。负责全片 VFX 包装设计与合成执行，覆盖屏幕内容合成、实拍 Bug 修补与多段视觉包装落地。",
+        "en": "A public DNF 15th anniversary promo film. TYC handled full-film VFX packaging and compositing execution, covering shot tracking, screen compositing, live-action cleanup, and visual repair."
+      },
+      "detail": {
+        "zh": "TYC 负责全片特效包装设计与合成执行，工作范围覆盖镜头跟踪合成、屏幕内容合成与替换、实拍画面 Bug 修补、画面瑕疵清理及多段视觉包装落地。",
+        "en": "This Tencent / Dungeon & Fighter 15th anniversary promo film, \"Your Story with Arad,\" connects live-action life scenes with game memories. TYC was responsible for full-film VFX packaging design and compositing execution, including shot tracking and compositing, screen content compositing and replacement, live-action bug fixes, visual cleanup, and packaging implementation across multiple sections."
+      },
+      "sourceNote": {
+        "zh": "可公开展示。图片、视频或封面来自你提供的项目素材；公开链接为对应平台视频。",
+        "en": "Publicly displayable. Cover, clips, and stills are from your provided project materials; the public link is the Bilibili video."
+      },
+      "externalLinks": [
+        {
+          "label": {
+            "zh": "Bilibili 公开链接",
+            "en": "Bilibili Public Link"
+          },
+          "url": "https://www.bilibili.com/video/BV1ks4y1v7sw/?spm_id_from=333.337.search-card.all.click&vd_source=b85e87025b62ef509a0dd1c1709f4af9"
+        }
+      ],
+      "caseClass": "A",
+      "caseRank": 8,
+      "displayLevel": "publicLink",
+      "displayNote": {
+        "zh": "公开链接展示。TYC 参与范围以本页说明为准；完整视频请查看对应公开平台链接。",
+        "en": "Public-link view. TYC participation is described on this page; please use the public platform link for the full video."
+      }
+    },
+    {
+      "title": {
+        "zh": "2023 湖南 315 晚会角色 IP 视频",
+        "en": "2023 Hunan 315 Gala Character IP Video"
+      },
+      "year": "2023",
+      "client": {
+        "zh": "湖南 315 晚会",
+        "en": "Hunan 315 Gala"
+      },
+      "role": {
+        "zh": "整片制作 / 角色 IP 视频 / 栏目包装",
+        "en": "Full film production / character IP video / program packaging"
+      },
+      "mediaType": "video",
+      "coverImage": "assets/projects/hunan-315-cover.png",
+      "coverVideo": "",
+      "videoUrl": "",
+      "motionClips": [],
+      "gallery": [],
+      "summary": {
+        "zh": "客户项目。为 2023 年湖南 315 晚会完成角色 IP 视频整片制作，服务于晚会视觉包装、角色露出与节目传播。",
+        "en": "A client project. TYC produced the full character IP video for the 2023 Hunan 315 Gala, supporting gala visual packaging, character presentation, and program communication."
+      },
+      "detail": {
+        "zh": "该项目为 2023 年湖南 315 晚会角色 IP 视频。TYC 负责整片制作，围绕晚会传播需求、角色 IP 形象、栏目包装节奏和节目视觉呈现完成成片交付。",
+        "en": "This project is the character IP video for the 2023 Hunan 315 Gala. TYC handled the full film production, delivering the piece around the gala communication needs, character IP presentation, program-packaging rhythm, and overall visual expression."
+      },
+      "sourceNote": {
+        "zh": "本地成片来自你提供的项目素材。该项目按整片制作案例展示。",
+        "en": "Local finished film is from your provided project material. This project is presented as a full-production case."
+      },
+      "externalLinks": [],
+      "caseClass": "ThreeD",
+      "caseRank": 1,
+      "displayLevel": "full",
+      "displayNote": {
+        "zh": "可展示项目。第一版线上链接暂不加载本地完整视频，保留封面、图集和项目说明；后续上传到 OSS/CDN 后再补充播放地址。",
+        "en": "Displayable project. The first online version does not load the local full video; it keeps the cover, stills, and project notes. Playback can be restored after uploading the file to OSS/CDN."
+      }
+    },
+    {
+      "title": {
+        "zh": "奥比岛手游 1.2 版本 PV｜暗影之谜：满月相聚，快乐延续",
+        "en": "Obi Island Mobile 1.2 Version PV | Mystery of Shadows"
+      },
+      "year": "2022",
+      "client": {
+        "zh": "奥比岛手游",
+        "en": "Obi Island Mobile"
+      },
+      "role": {
+        "zh": "完整 PV 主导制作",
+        "en": "Full PV lead production"
+      },
+      "mediaType": "video",
+      "coverImage": "assets/projects/aobi-shadow-cover.png",
+      "coverVideo": "",
+      "videoUrl": "",
+      "motionClips": [],
+      "gallery": [
+        "assets/projects/aobi-shadow-cover.png"
+      ],
+      "summary": {
+        "zh": "公开项目。完整主导制作奥比岛手游 1.2 版本“暗影之谜”PV，围绕版本主题、角色氛围和上线传播完成整支影片制作。",
+        "en": "A public project. TYC led the full production of the Obi Island Mobile 1.2 version PV, building the complete film around the version theme, character mood, and launch communication."
+      },
+      "detail": {
+        "zh": "该项目为奥比岛手游 1.2 版本“暗影之谜”PV《满月相聚，快乐延续》。TYC 主导完成整支 PV 制作，围绕版本主题、角色氛围、画面节奏和宣传信息进行整体视觉表达与成片交付。",
+        "en": "This project is the Obi Island Mobile 1.2 version PV, Mystery of Shadows. TYC led the full PV production, shaping the version theme, character atmosphere, visual rhythm, promotional messaging, and final delivery."
+      },
+      "sourceNote": {
+        "zh": "可公开展示。封面与本地视频来自你提供的项目素材；公开链接为 Bilibili 视频。该项目按完整主导制作案例展示。",
+        "en": "Publicly displayable. Cover and local video are from your provided project materials; the public link is the Bilibili video. This project is presented as a full lead-production case."
+      },
+      "externalLinks": [
+        {
+          "label": {
+            "zh": "Bilibili 公开链接",
+            "en": "Bilibili Public Link"
+          },
+          "url": "https://www.bilibili.com/video/BV1JF411P7FA?spm_id_from=333.788.videopod.sections&vd_source=b85e87025b62ef509a0dd1c1709f4af9"
+        }
+      ],
+      "caseClass": "GamePV",
+      "caseRank": 1,
+      "displayLevel": "publicLink",
+      "displayNote": {
+        "zh": "公开链接展示。TYC 参与范围以本页说明为准；完整视频请查看对应公开平台链接。",
+        "en": "Public-link view. TYC participation is described on this page; please use the public platform link for the full video."
+      }
+    },
+    {
+      "title": {
+        "zh": "奥比岛手游 1.1 版本 PV｜星际大赛：经典玩法，快乐回归",
+        "en": "Obi Island Mobile 1.1 Version PV | Starry Contest"
+      },
+      "year": "2022",
+      "client": {
+        "zh": "奥比岛手游",
+        "en": "Obi Island Mobile"
+      },
+      "role": {
+        "zh": "完整 PV 主导制作",
+        "en": "Full PV lead production"
+      },
+      "mediaType": "video",
+      "coverImage": "assets/projects/aobi-starry-contest-cover.png",
+      "coverVideo": "",
+      "videoUrl": "",
+      "motionClips": [],
+      "gallery": [
+        "assets/projects/aobi-starry-contest-cover.png"
+      ],
+      "summary": {
+        "zh": "公开项目。完整主导制作奥比岛手游 1.1 版本“星际大赛”PV，服务于经典玩法回归与版本上线传播。",
+        "en": "A public project. TYC led the full production of the Obi Island Mobile 1.1 version PV, supporting the return of classic gameplay and version-launch communication."
+      },
+      "detail": {
+        "zh": "该项目为奥比岛手游 1.1 版本“星际大赛”PV《经典玩法，快乐回归！》。TYC 主导完成整支 PV 制作，将版本玩法、角色关系、节庆氛围与上线信息整合为完整宣传片。",
+        "en": "This project is the Obi Island Mobile 1.1 version PV, Starry Contest. TYC led the full PV production, integrating gameplay highlights, character relationships, festive atmosphere, and launch messaging into a complete promotional film."
+      },
+      "sourceNote": {
+        "zh": "可公开展示。封面与本地视频来自你提供的项目素材；公开链接为 Bilibili 视频。该项目按完整主导制作案例展示。",
+        "en": "Publicly displayable. Cover and local video are from your provided project materials; the public link is the Bilibili video. This project is presented as a full lead-production case."
+      },
+      "externalLinks": [
+        {
+          "label": {
+            "zh": "Bilibili 公开链接",
+            "en": "Bilibili Public Link"
+          },
+          "url": "https://www.bilibili.com/video/BV1wr4y177hk?spm_id_from=333.788.videopod.sections&vd_source=b85e87025b62ef509a0dd1c1709f4af9"
+        }
+      ],
+      "caseClass": "GamePV",
+      "caseRank": 2,
+      "displayLevel": "publicLink",
+      "displayNote": {
+        "zh": "公开链接展示。TYC 参与范围以本页说明为准；完整视频请查看对应公开平台链接。",
+        "en": "Public-link view. TYC participation is described on this page; please use the public platform link for the full video."
+      }
+    },
+    {
+      "title": {
+        "zh": "奥比岛手游公测 PV｜开启欢乐海岛之旅",
+        "en": "Obi Island Mobile Launch PV | Start the Happy Island Journey"
+      },
+      "year": "2022",
+      "client": {
+        "zh": "奥比岛手游",
+        "en": "Obi Island Mobile"
+      },
+      "role": {
+        "zh": "完整 PV 主导制作",
+        "en": "Full PV lead production"
+      },
+      "mediaType": "video",
+      "coverImage": "assets/projects/aobi-launch-cover.png",
+      "coverVideo": "",
+      "videoUrl": "",
+      "motionClips": [],
+      "gallery": [
+        "assets/projects/aobi-launch-cover.png"
+      ],
+      "summary": {
+        "zh": "公开项目。完整主导制作奥比岛手游公测 PV，用温暖轻松的视觉节奏呈现游戏上线、世界观与玩家邀请。",
+        "en": "A public project. TYC led the full production of the Obi Island Mobile launch PV, using a warm and playful visual rhythm to communicate launch, worldbuilding, and player invitation."
+      },
+      "detail": {
+        "zh": "该项目为奥比岛手游公测 PV《明日公测！全新 PV 带你开启欢乐海岛之旅！》。TYC 主导完成整支 PV 制作，围绕公测节点、海岛世界观、角色群像和玩家邀请完成整体宣传表达。",
+        "en": "This project is the Obi Island Mobile launch PV. TYC led the full PV production, shaping the launch moment, island worldbuilding, character ensemble, and player invitation into a complete promotional piece."
+      },
+      "sourceNote": {
+        "zh": "可公开展示。封面与本地视频来自你提供的项目素材；公开链接为 Bilibili 视频。该项目按完整主导制作案例展示。",
+        "en": "Publicly displayable. Cover and local video are from your provided project materials; the public link is the Bilibili video. This project is presented as a full lead-production case."
+      },
+      "externalLinks": [
+        {
+          "label": {
+            "zh": "Bilibili 公开链接",
+            "en": "Bilibili Public Link"
+          },
+          "url": "https://www.bilibili.com/video/BV1o34y1n7ca?spm_id_from=333.788.videopod.sections&vd_source=b85e87025b62ef509a0dd1c1709f4af9"
+        }
+      ],
+      "caseClass": "GamePV",
+      "caseRank": 3,
+      "displayLevel": "publicLink",
+      "displayNote": {
+        "zh": "公开链接展示。TYC 参与范围以本页说明为准；完整视频请查看对应公开平台链接。",
+        "en": "Public-link view. TYC participation is described on this page; please use the public platform link for the full video."
+      }
+    },
+    {
+      "title": {
+        "zh": "奥比岛手游 1.3 版本 PV｜快乐奥比",
+        "en": "Obi Island Mobile 1.3 Version PV | Happy Aobi"
+      },
+      "year": "2022",
+      "client": {
+        "zh": "奥比岛手游",
+        "en": "Obi Island Mobile"
+      },
+      "role": {
+        "zh": "完整 PV 主导制作",
+        "en": "Full PV lead production"
+      },
+      "mediaType": "video",
+      "coverImage": "assets/projects/aobi-happy-cover.png",
+      "coverVideo": "",
+      "videoUrl": "",
+      "motionClips": [],
+      "gallery": [
+        "assets/projects/aobi-happy-cover.png"
+      ],
+      "summary": {
+        "zh": "公开项目。完整主导制作奥比岛手游 1.3 版本“快乐奥比”PV，围绕秋季派对、版本活动和轻快情绪完成成片。",
+        "en": "A public project. TYC led the full production of the Obi Island Mobile 1.3 version PV, building the film around the autumn party, version activities, and a bright playful mood."
+      },
+      "detail": {
+        "zh": "该项目为奥比岛手游 1.3 版本“快乐奥比”PV《快加入奥比岛秋天的第一场派对！》。TYC 主导完成整支 PV 制作，将版本活动、派对氛围、角色视觉和上线信息整理成轻快明确的宣传片。",
+        "en": "This project is the Obi Island Mobile 1.3 version PV, Happy Aobi. TYC led the full PV production, organizing version activities, party atmosphere, character visuals, and launch information into a clear and upbeat promotional film."
+      },
+      "sourceNote": {
+        "zh": "可公开展示。封面与本地视频来自你提供的项目素材；公开链接为 Bilibili 视频。该项目按完整主导制作案例展示。",
+        "en": "Publicly displayable. Cover and local video are from your provided project materials; the public link is the Bilibili video. This project is presented as a full lead-production case."
+      },
+      "externalLinks": [
+        {
+          "label": {
+            "zh": "Bilibili 公开链接",
+            "en": "Bilibili Public Link"
+          },
+          "url": "https://www.bilibili.com/video/BV1ra411g7cd?spm_id_from=333.788.videopod.sections&vd_source=b85e87025b62ef509a0dd1c1709f4af9"
+        }
+      ],
+      "caseClass": "GamePV",
+      "caseRank": 4,
+      "displayLevel": "publicLink",
+      "displayNote": {
+        "zh": "公开链接展示。TYC 参与范围以本页说明为准；完整视频请查看对应公开平台链接。",
+        "en": "Public-link view. TYC participation is described on this page; please use the public platform link for the full video."
+      }
+    },
+    {
+      "title": {
+        "zh": "一念逍遥万圣节 PV｜海外版宣发",
+        "en": "Yi Nian Xiao Yao Halloween PV | Overseas Promo"
+      },
+      "year": "2022",
+      "client": {
+        "zh": "雷霆游戏 / 一念逍遥",
+        "en": "Leiting Games / Yi Nian Xiao Yao"
+      },
+      "role": {
+        "zh": "整片制作 / 设计 / 动画 / 成片",
+        "en": "Full PV production / design / animation / final film"
+      },
+      "mediaType": "video",
+      "coverImage": "",
+      "coverVideo": "",
+      "videoUrl": "",
+      "motionClips": [],
+      "gallery": [],
+      "summary": {
+        "zh": "客户项目。为《一念逍遥》海外版万圣节宣发完成整支 PV 制作，负责全部设计、动画与成片交付。",
+        "en": "A client project. TYC produced the full Halloween PV for the overseas promotion of Yi Nian Xiao Yao, covering all design, animation, and final film delivery."
+      },
+      "detail": {
+        "zh": "该项目为《一念逍遥》万圣节海外版宣发 PV，客户为雷霆游戏。TYC 负责整支影片的设计、动画与成片制作，将万圣节主题、角色视觉、海外传播语境和节奏化包装整合为完整宣传片。",
+        "en": "This project is the Halloween overseas promo PV for Yi Nian Xiao Yao, for Leiting Games. TYC handled the full film design, animation, and final production, integrating the Halloween theme, character visuals, overseas communication context, and rhythmic packaging into a complete promotional video."
+      },
+      "sourceNote": {
+        "zh": "本地成片与封面来自你提供的项目素材。该项目按整片制作案例展示。",
+        "en": "Local finished film and cover are from your provided project materials. This project is presented as a full-production case."
+      },
+      "externalLinks": [],
+      "caseClass": "GamePV",
+      "caseRank": 5,
+      "displayLevel": "textOnly",
+      "displayNote": {
+        "zh": "仅文字说明。当前客户作品集链接不展示该项目素材；TYC 参与范围以本页说明为准。",
+        "en": "Text-only view. This client portfolio link does not display project media; TYC participation is described on this page."
+      }
+    },
+    {
+      "title": {
+        "zh": "十年狂热，少年风骚｜魔方十周年",
+        "en": "Ten Years of Passion, Youthful Spirit | MoreFun 10th Anniversary"
+      },
+      "year": "2020",
+      "client": {
+        "zh": "腾讯 / 魔方工作室",
+        "en": "Tencent / MoreFun Studios"
+      },
+      "role": {
+        "zh": "全片特效包装动画",
+        "en": "VFX packaging animation across the full film"
+      },
+      "mediaType": "video",
+      "coverImage": "assets/projects/mofang-10th-cover.jpg",
+      "coverVideo": "",
+      "videoUrl": "",
+      "motionClips": [],
+      "gallery": [
+        "assets/projects/mofang-10th-cover.jpg",
+        "assets/projects/mofang-10th-still-32.jpg",
+        "assets/projects/mofang-10th-still-33.jpg"
+      ],
+      "summary": {
+        "zh": "公开项目。魔方工作室十周年主题影片，TYC 负责全片特效包装动画。",
+        "en": "A public MoreFun Studios 10th anniversary film. TYC handled VFX packaging animation across the full film, supporting the anniversary narrative, game-footage retrospective, and brand emotion."
+      },
+      "detail": {
+        "zh": "TYC 负责全片特效包装动画，将实拍场景、游戏画面、纪念节点与视觉包装整合到影片节奏中，强化十周年回顾的热血感和记忆点。",
+        "en": "This Tencent / MoreFun Studios 10th anniversary film celebrates the studio's decade of work and community support. TYC was responsible for VFX packaging animation across the full film, integrating live-action scenes, game footage, anniversary beats, and visual packaging into the film's rhythm to strengthen its energy, memorability, and communication impact."
+      },
+      "sourceNote": {
+        "zh": "可公开展示。图片、视频或封面来自你提供的项目素材；公开链接为对应平台视频。",
+        "en": "Publicly displayable. Cover, clips, and stills are from your provided project materials; the public link is the Bilibili video."
+      },
+      "externalLinks": [
+        {
+          "label": {
+            "zh": "Bilibili 公开链接",
+            "en": "Bilibili Public Link"
+          },
+          "url": "https://www.bilibili.com/video/BV17a411F7MK/?vd_source=b85e87025b62ef509a0dd1c1709f4af9"
+        }
+      ],
+      "caseClass": "A",
+      "caseRank": 9,
+      "displayLevel": "publicLink",
+      "displayNote": {
+        "zh": "公开链接展示。TYC 参与范围以本页说明为准；完整视频请查看对应公开平台链接。",
+        "en": "Public-link view. TYC participation is described on this page; please use the public platform link for the full video."
+      }
+    },
+    {
+      "title": {
+        "zh": "一起来捉妖｜城市快闪宣传片",
+        "en": "Let’s Hunt Monsters | City Flash Mob Promo Film"
+      },
+      "year": "2019",
+      "client": {
+        "zh": "一起来捉妖",
+        "en": "Let’s Hunt Monsters"
+      },
+      "role": {
+        "zh": "特效包装 / 实拍合成",
+        "en": "VFX packaging / live-action compositing"
+      },
+      "mediaType": "video",
+      "coverImage": "assets/projects/lets-hunt-monsters-cover.png",
+      "coverVideo": "",
+      "videoUrl": "",
+      "motionClips": [],
+      "gallery": [
+        "assets/projects/lets-hunt-monsters-cover.png"
+      ],
+      "summary": {
+        "zh": "公开项目。参与《一起来捉妖》城市快闪宣传片中的特效包装与实拍合成，以本地片段展示城市实拍、游戏视觉元素和宣传节奏的整合。",
+        "en": "A public project. TYC contributed VFX packaging and live-action compositing for the Let’s Hunt Monsters city flash mob promo film, with local clips showing the integration of city footage, game visual elements, and promo rhythm."
+      },
+      "detail": {
+        "zh": "该项目为《一起来捉妖》城市快闪宣传片。TYC 负责其中的特效包装与实拍合成相关工作，将城市实拍画面、游戏视觉元素、动态包装和宣传节奏结合，服务于线下快闪与游戏传播内容的视觉呈现。",
+        "en": "This project is the Let’s Hunt Monsters city flash mob promo film. TYC contributed VFX packaging and live-action compositing, combining city live-action footage, game visual elements, motion packaging, and promotional rhythm for the visual presentation of the offline flash mob and game communication content."
+      },
+      "sourceNote": {
+        "zh": "可公开展示。封面与本地视频来自你提供的项目素材；公开链接为新片场页面。",
+        "en": "Publicly displayable. Cover and local videos are from your provided project materials; the public link is the Xinpianchang page."
+      },
+      "externalLinks": [
+        {
+          "label": {
+            "zh": "新片场公开链接",
+            "en": "Xinpianchang Public Link"
+          },
+          "url": "https://www.xinpianchang.com/a10452781?from=UserProfile"
+        }
+      ],
+      "caseClass": "A",
+      "caseRank": 10,
+      "displayLevel": "publicLink",
+      "displayNote": {
+        "zh": "公开链接展示。TYC 参与范围以本页说明为准；完整视频请查看对应公开平台链接。",
+        "en": "Public-link view. TYC participation is described on this page; please use the public platform link for the full video."
+      }
+    },
+    {
+      "title": {
+        "zh": "云梦泽音乐纪录片《云梦泽的回响》",
+        "en": "Echoes of the Misty Marshes | Music Documentary"
+      },
+      "year": "2024",
+      "client": {
+        "zh": "腾讯 / 王者荣耀",
+        "en": "Tencent / Honor of Kings"
+      },
+      "role": {
+        "zh": "轻量案例 / 音乐纪录片视觉片段支持",
+        "en": "Compact case / music documentary visual segment support"
+      },
+      "mediaType": "video",
+      "coverImage": "assets/projects/hok-yunmeng-cover.png",
+      "coverVideo": "",
+      "videoUrl": "",
+      "motionClips": [],
+      "gallery": [
+        "assets/projects/hok-yunmeng-cover.png",
+        "assets/projects/hok-yunmeng-still-27.png",
+        "assets/projects/hok-yunmeng-still-28.png"
+      ],
+      "summary": {
+        "zh": "公开轻量案例。王者荣耀音乐纪录片项目，以封面、两段视频片段和精选画面展示参与内容。",
+        "en": "A public compact case for an Honor of Kings music documentary, presented with a cover, two clips, and selected frames."
+      },
+      "detail": {
+        "zh": "该项目按轻量案例处理，以主封面、代表性视频片段、精选画面和公开链接呈现，突出项目调性与 TYC 在音乐纪录片视觉内容中的参与痕迹。",
+        "en": "This project is presented as a compact case. Since the publicly displayable material is focused, it uses the main cover, representative clips, selected frames, and the public link to communicate the project tone and TYC's contribution to the visual content of the music documentary."
+      },
+      "sourceNote": {
+        "zh": "可公开展示。图片、视频或封面来自你提供的项目素材；公开链接为对应平台视频。",
+        "en": "Publicly displayable. Cover, clips, and stills are from your provided project materials; the public link is the Bilibili video."
+      },
+      "externalLinks": [
+        {
+          "label": {
+            "zh": "Bilibili 公开链接",
+            "en": "Bilibili Public Link"
+          },
+          "url": "https://www.bilibili.com/video/BV1Ak4y1975s/"
+        }
+      ],
+      "caseClass": "A",
+      "caseRank": 1,
+      "displayLevel": "publicLink",
+      "displayNote": {
+        "zh": "公开链接展示。TYC 参与范围以本页说明为准；完整视频请查看对应公开平台链接。",
+        "en": "Public-link view. TYC participation is described on this page; please use the public platform link for the full video."
+      }
+    },
+    {
+      "title": {
+        "zh": "2024CFM周年庆玩家年度系列纪录：青海篇",
+        "en": "2024 CFM Anniversary Player Annual Documentary: Qinghai"
+      },
+      "year": "2024",
+      "client": {
+        "zh": "CFM / 穿越火线手游",
+        "en": "CFM / CrossFire Mobile"
+      },
+      "role": {
+        "zh": "部分镜头包装 / 特效合成",
+        "en": "Selected-shot packaging / VFX compositing"
+      },
+      "mediaType": "image",
+      "coverImage": "assets/projects/support-cfm-qinghai-cover.png",
+      "coverVideo": "",
+      "videoUrl": "",
+      "motionClips": [],
+      "gallery": [
+        "assets/projects/support-cfm-qinghai-cover.png"
+      ],
+      "summary": {
+        "zh": "公开轻量项目。参与部分镜头的包装、特效合成等工作，以封面和公开链接记录项目参与痕迹。",
+        "en": "A public lightweight case. TYC contributed packaging and VFX compositing to selected shots, represented here through the cover and public link."
+      },
+      "detail": {
+        "zh": "该项目为 2024 CFM 周年庆玩家年度系列纪录青海篇。TYC 参与其中部分镜头的包装、特效合成等后期视觉支持工作，服务于玩家故事、地域主题与周年庆传播内容的画面呈现。",
+        "en": "This project is the Qinghai chapter of the 2024 CFM Anniversary Player Annual Documentary series. TYC contributed packaging, VFX compositing, and related post-production visual support to selected shots, supporting the presentation of player stories, regional themes, and anniversary communication."
+      },
+      "sourceNote": {
+        "zh": "可公开展示。封面来自你提供的项目素材；公开链接为 Bilibili 视频。该案例仅表述部分镜头参与，不代表全片制作归属。",
+        "en": "Publicly displayable. Cover is from your provided project material; the public link is the Bilibili video. This case describes selected-shot participation only, not full-film production ownership."
+      },
+      "externalLinks": [
+        {
+          "label": {
+            "zh": "Bilibili 公开链接",
+            "en": "Bilibili Public Link"
+          },
+          "url": "https://www.bilibili.com/video/BV1CXzRYYEsY/?spm_id_from=333.337.search-card.all.click&vd_source=b85e87025b62ef509a0dd1c1709f4af9"
+        }
+      ],
+      "caseClass": "Support",
+      "caseRank": 1,
+      "displayLevel": "publicLink",
+      "displayNote": {
+        "zh": "公开链接展示。TYC 参与范围以本页说明为准；完整视频请查看对应公开平台链接。",
+        "en": "Public-link view. TYC participation is described on this page; please use the public platform link for the full video."
+      }
+    },
+    {
+      "title": {
+        "zh": "云梦泽生命小课堂｜谁司谁的命？",
+        "en": "Misty Marshes Life Class | Who Decides Whose Fate?"
+      },
+      "year": "2024",
+      "client": {
+        "zh": "腾讯 / 王者荣耀",
+        "en": "Tencent / Honor of Kings"
+      },
+      "role": {
+        "zh": "部分镜头包装 / 特效合成",
+        "en": "Selected-shot packaging / VFX compositing"
+      },
+      "mediaType": "image",
+      "coverImage": "assets/projects/support-yunmeng-life-cover.png",
+      "coverVideo": "",
+      "videoUrl": "",
+      "motionClips": [],
+      "gallery": [
+        "assets/projects/support-yunmeng-life-cover.png"
+      ],
+      "summary": {
+        "zh": "公开轻量项目。参与部分镜头的包装、特效合成等工作，用于补充展示纪录片与知识向内容中的视觉支持经验。",
+        "en": "A public lightweight case. TYC contributed selected-shot packaging and VFX compositing, adding documentary and educational-content visual support experience to the portfolio."
+      },
+      "detail": {
+        "zh": "该项目为王者荣耀云梦泽生命小课堂相关内容。TYC 参与其中部分镜头的包装、特效合成等视觉后期支持，帮助内容在人物叙事、信息表达和画面节奏上形成更完整的呈现。",
+        "en": "This project is related to the Honor of Kings Misty Marshes Life Class content series. TYC contributed packaging, VFX compositing, and visual post-production support to selected shots, helping the content land with stronger character storytelling, information presentation, and visual rhythm."
+      },
+      "sourceNote": {
+        "zh": "可公开展示。封面来自你提供的项目素材；公开链接为 Bilibili 视频。该案例仅表述部分镜头参与，不代表全片制作归属。",
+        "en": "Publicly displayable. Cover is from your provided project material; the public link is the Bilibili video. This case describes selected-shot participation only, not full-film production ownership."
+      },
+      "externalLinks": [
+        {
+          "label": {
+            "zh": "Bilibili 公开链接",
+            "en": "Bilibili Public Link"
+          },
+          "url": "https://www.bilibili.com/video/BV1Bx421S7nW/?spm_id_from=333.337.search-card.all.click&vd_source=b85e87025b62ef509a0dd1c1709f4af9"
+        }
+      ],
+      "caseClass": "Support",
+      "caseRank": 2,
+      "displayLevel": "publicLink",
+      "displayNote": {
+        "zh": "公开链接展示。TYC 参与范围以本页说明为准；完整视频请查看对应公开平台链接。",
+        "en": "Public-link view. TYC participation is described on this page; please use the public platform link for the full video."
+      }
+    },
+    {
+      "title": {
+        "zh": "崩坏：星穹铁道｜紧急爆料",
+        "en": "Honkai: Star Rail | Breaking News Segment"
+      },
+      "year": "2023",
+      "client": {
+        "zh": "米哈游 / 崩坏：星穹铁道",
+        "en": "miHoYo / Honkai: Star Rail"
+      },
+      "role": {
+        "zh": "部分镜头包装 / 特效合成",
+        "en": "Selected-shot packaging / VFX compositing"
+      },
+      "mediaType": "image",
+      "coverImage": "assets/projects/support-hsr-news-cover.png",
+      "coverVideo": "",
+      "videoUrl": "",
+      "motionClips": [],
+      "gallery": [
+        "assets/projects/support-hsr-news-cover.png"
+      ],
+      "summary": {
+        "zh": "公开轻量项目。参与部分镜头的包装、特效合成等工作，补充展示游戏内容短片中的信息包装与画面增强经验。",
+        "en": "A public lightweight case. TYC contributed selected-shot packaging and VFX compositing, showing experience in information packaging and visual enhancement for game-content shorts."
+      },
+      "detail": {
+        "zh": "该项目为崩坏：星穹铁道相关公开内容。TYC 参与其中部分镜头的包装、特效合成等视觉后期支持，围绕信息露出、图文包装和画面氛围增强进行执行。",
+        "en": "This project is public Honkai: Star Rail-related content. TYC contributed packaging, VFX compositing, and visual post-production support to selected shots, focusing on information reveals, graphic packaging, and image-atmosphere enhancement."
+      },
+      "sourceNote": {
+        "zh": "可公开展示。封面来自你提供的项目素材；公开链接为 Bilibili 视频。该案例仅表述部分镜头参与，不代表全片制作归属。",
+        "en": "Publicly displayable. Cover is from your provided project material; the public link is the Bilibili video. This case describes selected-shot participation only, not full-film production ownership."
+      },
+      "externalLinks": [
+        {
+          "label": {
+            "zh": "Bilibili 公开链接",
+            "en": "Bilibili Public Link"
+          },
+          "url": "https://www.bilibili.com/video/BV1DV411S7Mh/?spm_id_from=333.337.search-card.all.click&vd_source=b85e87025b62ef509a0dd1c1709f4af9"
+        }
+      ],
+      "caseClass": "Support",
+      "caseRank": 3,
+      "displayLevel": "publicLink",
+      "displayNote": {
+        "zh": "公开链接展示。TYC 参与范围以本页说明为准；完整视频请查看对应公开平台链接。",
+        "en": "Public-link view. TYC participation is described on this page; please use the public platform link for the full video."
+      }
+    },
+    {
+      "title": {
+        "zh": "全是高手｜FIGHTER",
+        "en": "All Are Fighters | FIGHTER"
+      },
+      "year": "2023",
+      "client": {
+        "zh": "公开项目",
+        "en": "Public Project"
+      },
+      "role": {
+        "zh": "部分镜头包装 / 特效合成",
+        "en": "Selected-shot packaging / VFX compositing"
+      },
+      "mediaType": "image",
+      "coverImage": "assets/projects/support-fighter-cover.png",
+      "coverVideo": "",
+      "videoUrl": "",
+      "motionClips": [],
+      "gallery": [
+        "assets/projects/support-fighter-cover.png"
+      ],
+      "summary": {
+        "zh": "公开轻量项目。参与部分镜头的包装、特效合成等工作，以城市影像、标题包装和节奏化视觉段落补充项目经历。",
+        "en": "A public lightweight case. TYC contributed selected-shot packaging and VFX compositing, adding project experience around urban imagery, title treatment, and rhythmic visual sections."
+      },
+      "detail": {
+        "zh": "该项目为公开影像内容。TYC 参与其中部分镜头的包装、特效合成等视觉后期支持，围绕城市画面、标题呈现和节奏化包装段落进行执行。",
+        "en": "This public video project includes urban imagery and title-driven visual sections. TYC contributed packaging, VFX compositing, and visual post-production support to selected shots, focusing on city visuals, title presentation, and rhythmic packaging moments."
+      },
+      "sourceNote": {
+        "zh": "可公开展示。封面来自你提供的项目素材；公开链接为 Bilibili 视频。该案例仅表述部分镜头参与，不代表全片制作归属。",
+        "en": "Publicly displayable. Cover is from your provided project material; the public link is the Bilibili video. This case describes selected-shot participation only, not full-film production ownership."
+      },
+      "externalLinks": [
+        {
+          "label": {
+            "zh": "Bilibili 公开链接",
+            "en": "Bilibili Public Link"
+          },
+          "url": "https://www.bilibili.com/video/BV1xU411f7Wb/?spm_id_from=333.337.search-card.all.click&vd_source=b85e87025b62ef509a0dd1c1709f4af9"
+        }
+      ],
+      "caseClass": "Support",
+      "caseRank": 4,
+      "displayLevel": "publicLink",
+      "displayNote": {
+        "zh": "公开链接展示。TYC 参与范围以本页说明为准；完整视频请查看对应公开平台链接。",
+        "en": "Public-link view. TYC participation is described on this page; please use the public platform link for the full video."
+      }
+    },
+    {
+      "title": {
+        "zh": "英雄联盟｜远古巨龙入蜀腾飞",
+        "en": "League of Legends | Elder Dragon Takes Flight in Sichuan"
+      },
+      "year": "2024",
+      "client": {
+        "zh": "腾讯 / 英雄联盟",
+        "en": "Tencent / League of Legends"
+      },
+      "role": {
+        "zh": "部分镜头包装 / 特效合成",
+        "en": "Selected-shot packaging / VFX compositing"
+      },
+      "mediaType": "image",
+      "coverImage": "assets/projects/support-lol-chengdu-cover.png",
+      "coverVideo": "",
+      "videoUrl": "",
+      "motionClips": [],
+      "gallery": [
+        "assets/projects/support-lol-chengdu-cover.png"
+      ],
+      "summary": {
+        "zh": "公开轻量项目。参与部分镜头的包装、特效合成等工作，补充展示线下活动、游戏视觉与实拍场景结合的执行经验。",
+        "en": "A public lightweight case. TYC contributed selected-shot packaging and VFX compositing, adding experience in combining live events, game visuals, and live-action environments."
+      },
+      "detail": {
+        "zh": "该项目为英雄联盟相关公开内容。TYC 参与其中部分镜头的包装、特效合成等视觉后期支持，将游戏视觉、线下活动氛围和实拍场景结合到传播画面中。",
+        "en": "This public League of Legends-related project combines game visuals, live event atmosphere, and live-action city environments. TYC contributed packaging, VFX compositing, and visual post-production support to selected shots for the communication visuals."
+      },
+      "sourceNote": {
+        "zh": "可公开展示。封面来自你提供的项目素材；公开链接为 Bilibili 视频。该案例仅表述部分镜头参与，不代表全片制作归属。",
+        "en": "Publicly displayable. Cover is from your provided project material; the public link is the Bilibili video. This case describes selected-shot participation only, not full-film production ownership."
+      },
+      "externalLinks": [
+        {
+          "label": {
+            "zh": "Bilibili 公开链接",
+            "en": "Bilibili Public Link"
+          },
+          "url": "https://www.bilibili.com/video/BV1Xv1SBrEVn/?spm_id_from=333.337.search-card.all.click&vd_source=b85e87025b62ef509a0dd1c1709f4af9"
+        }
+      ],
+      "caseClass": "Support",
+      "caseRank": 5,
+      "displayLevel": "publicLink",
+      "displayNote": {
+        "zh": "公开链接展示。TYC 参与范围以本页说明为准；完整视频请查看对应公开平台链接。",
+        "en": "Public-link view. TYC participation is described on this page; please use the public platform link for the full video."
+      }
+    },
+    {
+      "title": {
+        "zh": "吉利未来交通交互大屏项目",
+        "en": "Geely Future Mobility Interactive Screen Project"
+      },
+      "year": "2023",
+      "client": {
+        "zh": "吉利相关项目",
+        "en": "Geely-related project"
+      },
+      "role": {
+        "zh": "平面设计 / UI 设计 / 动画设计 / 前半段部分三维镜头动画",
+        "en": "Graphic design / UI design / animation design / selected 3D animation shots in the first half"
+      },
+      "mediaType": "video",
+      "coverImage": "",
+      "coverVideo": "",
+      "videoUrl": "",
+      "motionClips": [],
+      "gallery": [],
+      "summary": {
+        "zh": "非公开链接项目。参与未来交通交互大屏方向的整体平面设计、UI 设计与动画设计，并负责前半段部分镜头的三维动画支持；整片并非由 TYC 独立完成。",
+        "en": "A project without a public link. TYC contributed graphic design, UI design, and animation design for a future-mobility interactive screen direction, and supported selected 3D animation shots in the first half; the full film was not independently produced by TYC."
+      },
+      "detail": {
+        "zh": "该项目按“吉利未来交通交互大屏项目”整理。TYC 参与整体平面设计、UI 设计和动画设计，并负责前半段部分镜头中的三维动画支持。需要明确的是，整支影片并非由 TYC 独立完成，本案例仅展示上述参与范围与本地成片素材。",
+        "en": "This project is organized as the Geely Future Mobility Interactive Screen Project. TYC contributed overall graphic design, UI design, and animation design, and supported selected 3D animation shots in the first half. The full film was not independently produced by TYC; this case only presents the participation scope above and the local finished-film material."
+      },
+      "sourceNote": {
+        "zh": "无公开链接。本地成片来自你提供的项目素材。该案例仅表述平面、UI、动画与部分三维镜头参与，不代表整片制作归属。",
+        "en": "No public link. Local finished film is from your provided project material. This case describes graphic, UI, animation, and selected 3D-shot participation only, not full-film production ownership."
+      },
+      "externalLinks": [],
+      "caseClass": "ThreeD",
+      "caseRank": 2,
+      "displayLevel": "textOnly",
+      "displayNote": {
+        "zh": "仅文字说明。当前客户作品集链接不展示该项目素材；TYC 参与范围以本页说明为准。",
+        "en": "Text-only view. This client portfolio link does not display project media; TYC participation is described on this page."
+      }
+    },
+    {
+      "title": {
+        "zh": "《崩坏：星穹铁道》遥远星球之歌 VOL.1：雅利洛-Ⅵ",
+        "en": "Honkai: Star Rail | Songs of Distant Planets Vol.1: Jarilo-VI"
+      },
+      "year": "2023",
+      "client": {
+        "zh": "米哈游 / 崩坏：星穹铁道",
+        "en": "miHoYo / Honkai: Star Rail"
+      },
+      "role": {
+        "zh": "部分镜头包装 / 实拍合成 / 视觉后期支持",
+        "en": "Selected-shot packaging / live-action compositing / visual post support"
+      },
+      "mediaType": "image",
+      "coverImage": "assets/projects/support-hsr-song-cover.png",
+      "coverVideo": "",
+      "videoUrl": "",
+      "motionClips": [],
+      "gallery": [
+        "assets/projects/support-hsr-song-cover.png"
+      ],
+      "summary": {
+        "zh": "公开轻量项目。参与其中部分镜头的包装、实拍合成等视觉后期支持；当前仅以公开链接和占位封面记录项目参与。",
+        "en": "A public lightweight case. TYC contributed selected-shot packaging, live-action compositing, and visual post-production support; currently represented by the public link and placeholder cover."
+      },
+      "detail": {
+        "zh": "该项目按轻量参与案例整理。TYC 参与其中部分镜头的包装、实拍合成等视觉后期支持，帮助画面在信息包装、视觉节奏和合成呈现上完成落地。当前暂无单独项目封面或本地片段，因此先以公开链接和统一占位图展示。",
+        "en": "This project is organized as a lightweight participation case. TYC contributed selected-shot packaging, live-action compositing, and visual post-production support, helping the visuals land through information packaging, visual rhythm, and compositing execution. Since no dedicated cover or local clip is currently provided, it is presented with the public link and a unified placeholder image."
+      },
+      "sourceNote": {
+        "zh": "仅有公开链接，暂无本地封面或片段素材。该案例仅表述部分镜头参与，不代表全片制作归属。",
+        "en": "Public link only; no local cover or clip material is currently provided. This case describes selected-shot participation only, not full-film production ownership."
+      },
+      "externalLinks": [
+        {
+          "label": {
+            "zh": "Bilibili 公开链接",
+            "en": "Bilibili Public Link"
+          },
+          "url": "https://www.bilibili.com/video/BV1sz4y1h7iM/?spm_id_from=333.337.search-card.all.click&vd_source=b85e87025b62ef509a0dd1c1709f4af9"
+        }
+      ],
+      "caseClass": "Support",
+      "caseRank": 6,
+      "displayLevel": "publicLink",
+      "displayNote": {
+        "zh": "公开链接展示。TYC 参与范围以本页说明为准；完整视频请查看对应公开平台链接。",
+        "en": "Public-link view. TYC participation is described on this page; please use the public platform link for the full video."
+      }
+    },
+    {
+      "title": {
+        "zh": "王者荣耀｜“碰”好运，小王给你送祝福啦！",
+        "en": "Honor of Kings | Good Luck Greeting Short"
+      },
+      "year": "2025",
+      "client": {
+        "zh": "腾讯 / 王者荣耀",
+        "en": "Tencent / Honor of Kings"
+      },
+      "role": {
+        "zh": "部分镜头包装 / 实拍合成 / 视觉后期支持",
+        "en": "Selected-shot packaging / live-action compositing / visual post support"
+      },
+      "mediaType": "image",
+      "coverImage": "assets/projects/support-hok-greeting-cover.png",
+      "coverVideo": "",
+      "videoUrl": "",
+      "motionClips": [],
+      "gallery": [
+        "assets/projects/support-hok-greeting-cover.png"
+      ],
+      "summary": {
+        "zh": "公开轻量项目。参与其中部分镜头的包装、实拍合成等视觉后期支持；当前仅以公开链接和占位封面记录项目参与。",
+        "en": "A public lightweight case. TYC contributed selected-shot packaging, live-action compositing, and visual post-production support; currently represented by the public link and placeholder cover."
+      },
+      "detail": {
+        "zh": "该项目按轻量参与案例整理。TYC 参与其中部分镜头的包装、实拍合成等视觉后期支持，帮助画面在信息包装、视觉节奏和合成呈现上完成落地。当前暂无单独项目封面或本地片段，因此先以公开链接和统一占位图展示。",
+        "en": "This project is organized as a lightweight participation case. TYC contributed selected-shot packaging, live-action compositing, and visual post-production support, helping the visuals land through information packaging, visual rhythm, and compositing execution. Since no dedicated cover or local clip is currently provided, it is presented with the public link and a unified placeholder image."
+      },
+      "sourceNote": {
+        "zh": "仅有公开链接，暂无本地封面或片段素材。该案例仅表述部分镜头参与，不代表全片制作归属。",
+        "en": "Public link only; no local cover or clip material is currently provided. This case describes selected-shot participation only, not full-film production ownership."
+      },
+      "externalLinks": [
+        {
+          "label": {
+            "zh": "Bilibili 公开链接",
+            "en": "Bilibili Public Link"
+          },
+          "url": "https://www.bilibili.com/festival/wangzhe?bvid=BV15pfhYvELp"
+        }
+      ],
+      "caseClass": "Support",
+      "caseRank": 7,
+      "displayLevel": "publicLink",
+      "displayNote": {
+        "zh": "公开链接展示。TYC 参与范围以本页说明为准；完整视频请查看对应公开平台链接。",
+        "en": "Public-link view. TYC participation is described on this page; please use the public platform link for the full video."
+      }
+    },
+    {
+      "title": {
+        "zh": "欢乐斗地主 x 彩虹合唱团｜新春主题曲《开局迎好运》先导唱段",
+        "en": "Happy Landlord x Rainbow Chamber Singers | New Year Theme Song Teaser"
+      },
+      "year": "2021",
+      "client": {
+        "zh": "欢乐斗地主",
+        "en": "Happy Landlord"
+      },
+      "role": {
+        "zh": "部分镜头包装 / 实拍合成 / 视觉后期支持",
+        "en": "Selected-shot packaging / live-action compositing / visual post support"
+      },
+      "mediaType": "image",
+      "coverImage": "assets/projects/support-landlord-rainbow-cover.png",
+      "coverVideo": "",
+      "videoUrl": "",
+      "motionClips": [],
+      "gallery": [
+        "assets/projects/support-landlord-rainbow-cover.png"
+      ],
+      "summary": {
+        "zh": "公开轻量项目。参与其中部分镜头的包装、实拍合成等视觉后期支持；当前仅以公开链接和占位封面记录项目参与。",
+        "en": "A public lightweight case. TYC contributed selected-shot packaging, live-action compositing, and visual post-production support; currently represented by the public link and placeholder cover."
+      },
+      "detail": {
+        "zh": "该项目按轻量参与案例整理。TYC 参与其中部分镜头的包装、实拍合成等视觉后期支持，帮助画面在信息包装、视觉节奏和合成呈现上完成落地。当前暂无单独项目封面或本地片段，因此先以公开链接和统一占位图展示。",
+        "en": "This project is organized as a lightweight participation case. TYC contributed selected-shot packaging, live-action compositing, and visual post-production support, helping the visuals land through information packaging, visual rhythm, and compositing execution. Since no dedicated cover or local clip is currently provided, it is presented with the public link and a unified placeholder image."
+      },
+      "sourceNote": {
+        "zh": "仅有公开链接，暂无本地封面或片段素材。该案例仅表述部分镜头参与，不代表全片制作归属。",
+        "en": "Public link only; no local cover or clip material is currently provided. This case describes selected-shot participation only, not full-film production ownership."
+      },
+      "externalLinks": [
+        {
+          "label": {
+            "zh": "Bilibili 公开链接",
+            "en": "Bilibili Public Link"
+          },
+          "url": "https://www.bilibili.com/video/BV165411J74J/?vd_source=b85e87025b62ef509a0dd1c1709f4af9"
+        }
+      ],
+      "caseClass": "Support",
+      "caseRank": 8,
+      "displayLevel": "publicLink",
+      "displayNote": {
+        "zh": "公开链接展示。TYC 参与范围以本页说明为准；完整视频请查看对应公开平台链接。",
+        "en": "Public-link view. TYC participation is described on this page; please use the public platform link for the full video."
+      }
+    },
+    {
+      "title": {
+        "zh": "新片场公开项目｜包装与实拍合成支持",
+        "en": "Xinpianchang Public Project | Packaging and Live-action Compositing Support"
+      },
+      "year": "2019",
+      "client": {
+        "zh": "公开项目（新片场）",
+        "en": "Public project (Xinpianchang)"
+      },
+      "role": {
+        "zh": "部分镜头包装 / 实拍合成 / 视觉后期支持",
+        "en": "Selected-shot packaging / live-action compositing / visual post support"
+      },
+      "mediaType": "image",
+      "coverImage": "assets/projects/support-xpc-10321913-cover.png",
+      "coverVideo": "",
+      "videoUrl": "",
+      "motionClips": [],
+      "gallery": [
+        "assets/projects/support-xpc-10321913-cover.png"
+      ],
+      "summary": {
+        "zh": "公开轻量项目。参与其中部分镜头的包装、实拍合成等视觉后期支持；当前仅以公开链接和占位封面记录项目参与。",
+        "en": "A public lightweight case. TYC contributed selected-shot packaging, live-action compositing, and visual post-production support; currently represented by the public link and placeholder cover."
+      },
+      "detail": {
+        "zh": "该项目按轻量参与案例整理。TYC 参与其中部分镜头的包装、实拍合成等视觉后期支持，帮助画面在信息包装、视觉节奏和合成呈现上完成落地。当前暂无单独项目封面或本地片段，因此先以公开链接和统一占位图展示。",
+        "en": "This project is organized as a lightweight participation case. TYC contributed selected-shot packaging, live-action compositing, and visual post-production support, helping the visuals land through information packaging, visual rhythm, and compositing execution. Since no dedicated cover or local clip is currently provided, it is presented with the public link and a unified placeholder image."
+      },
+      "sourceNote": {
+        "zh": "仅有公开链接，暂无本地封面或片段素材。该案例仅表述部分镜头参与，不代表全片制作归属。",
+        "en": "Public link only; no local cover or clip material is currently provided. This case describes selected-shot participation only, not full-film production ownership."
+      },
+      "externalLinks": [
+        {
+          "label": {
+            "zh": "新片场公开链接",
+            "en": "Xinpianchang Public Link"
+          },
+          "url": "https://www.xinpianchang.com/a10321913"
+        }
+      ],
+      "caseClass": "Support",
+      "caseRank": 9,
+      "displayLevel": "publicLink",
+      "displayNote": {
+        "zh": "公开链接展示。TYC 参与范围以本页说明为准；完整视频请查看对应公开平台链接。",
+        "en": "Public-link view. TYC participation is described on this page; please use the public platform link for the full video."
+      }
+    },
+    {
+      "title": {
+        "zh": "Intervalue 科技宣传片",
+        "en": "Intervalue Technology Promo Film"
+      },
+      "year": "2021",
+      "client": {
+        "zh": "Intervalue",
+        "en": "Intervalue"
+      },
+      "role": {
+        "zh": "整片制作 / 三维视觉 / 科技动画",
+        "en": "Full film production / 3D visuals / technology animation"
+      },
+      "mediaType": "video",
+      "coverImage": "assets/projects/intervalue-still-01.png",
+      "coverVideo": "",
+      "videoUrl": "",
+      "motionClips": [],
+      "gallery": [
+        "assets/projects/intervalue-still-01.png",
+        "assets/projects/intervalue-still-02.png",
+        "assets/projects/intervalue-still-03.png",
+        "assets/projects/intervalue-still-04.png",
+        "assets/projects/intervalue-still-05.png",
+        "assets/projects/intervalue-still-06.png"
+      ],
+      "summary": {
+        "zh": "客户项目。为 Intervalue 完成整支科技宣传片制作，以三维视觉、科技 UI、数据流与数字资产意象构建品牌传播画面。",
+        "en": "A client project. TYC produced the full Intervalue technology promo film, using 3D visuals, technology UI, data-flow imagery, and digital-asset motifs for brand communication."
+      },
+      "detail": {
+        "zh": "该项目为 Intervalue 科技宣传片。TYC 负责整片制作，以深蓝科技视觉为主线，通过三维空间、粒子流线、数字地球、交互界面、移动支付和安全资产等视觉段落，呈现品牌的技术想象、协作网络和数字资产安全表达。",
+        "en": "This project is the Intervalue technology promo film. TYC handled the full film production, building a deep-blue technology visual system through 3D space, particle streams, digital globe imagery, interactive interfaces, mobile payment visuals, and secure digital-asset motifs to communicate the brand's technology vision, cooperation network, and asset-security narrative."
+      },
+      "sourceNote": {
+        "zh": "本地成片与截图来自你提供的项目素材。该项目按整片制作案例展示。",
+        "en": "Local finished film and stills are from your provided project materials. This project is presented as a full-production case."
+      },
+      "externalLinks": [],
+      "caseClass": "ThreeD",
+      "caseRank": 3,
+      "displayLevel": "full",
+      "displayNote": {
+        "zh": "可展示项目。第一版线上链接暂不加载本地完整视频，保留封面、图集和项目说明；后续上传到 OSS/CDN 后再补充播放地址。",
+        "en": "Displayable project. The first online version does not load the local full video; it keeps the cover, stills, and project notes. Playback can be restored after uploading the file to OSS/CDN."
+      }
+    },
+    {
+      "title": {
+        "zh": "早期三维商业动画片段合集",
+        "en": "Early 3D Commercial Motion Compilation"
+      },
+      "year": "2019-2020",
+      "client": {
+        "zh": "商业项目片段合集",
+        "en": "Commercial project clips"
+      },
+      "role": {
+        "zh": "三维动画 / 产品视觉 / 科技界面动效",
+        "en": "3D animation / product visuals / technology UI motion"
+      },
+      "mediaType": "video",
+      "coverImage": "",
+      "coverVideo": "",
+      "videoUrl": "",
+      "motionClips": [],
+      "gallery": [],
+      "summary": {
+        "zh": "早期三维商业动画片段合集。关键词：产品三维、界面动效、机械结构、科技视觉、商业动画。整体品质低于近期案例，因此作为补充片段排在三维制作分类后段。",
+        "en": "A compilation of early 3D commercial motion clips. Keywords: product 3D, UI motion, mechanical structure, technology visuals, and commercial animation. Presented as supplementary clips after newer 3D cases."
+      },
+      "detail": {
+        "zh": "该合集整理了 2019-2020 年前后参与或制作过的一些三维动画片段，涵盖产品三维展示、界面动效、机械结构表达、科技感视觉和商业动画包装等方向。由于这批作品整体品质低于近期主案例，因此以片段合集形式放在三维制作分类靠后位置，用于补充展示早期三维执行经验。",
+        "en": "This compilation collects several 3D animation clips from around 2019-2020, covering product visualization, UI motion, mechanical structure expression, technology-style visuals, and commercial animation packaging. Since the overall quality is lower than recent main cases, it is presented as a supplementary compilation near the end of the 3D Production category."
+      },
+      "sourceNote": {
+        "zh": "本地视频和封面来自你提供的项目素材。该合集作为早期三维片段补充展示。",
+        "en": "Local videos and cover are from your provided project materials. This compilation is presented as supplementary early 3D motion work."
+      },
+      "externalLinks": [],
+      "caseClass": "ThreeD",
+      "caseRank": 4,
+      "displayLevel": "textOnly",
+      "displayNote": {
+        "zh": "仅文字说明。当前客户作品集链接不展示该项目素材；TYC 参与范围以本页说明为准。",
+        "en": "Text-only view. This client portfolio link does not display project media; TYC participation is described on this page."
+      }
+    },
+    {
+      "title": {
+        "zh": "AI生成画面的商业化合成修复实验",
+        "en": "Commercial Compositing Repair Experiment for AI-generated Footage"
+      },
+      "year": "Future",
+      "client": {
+        "zh": "AIGC 商业影像实验",
+        "en": "AIGC Commercial Image Experiment"
+      },
+      "role": {
+        "zh": "AI生成画面修复 / 商业化合成 / 成片质感控制",
+        "en": "AI-image repair / commercial compositing / finishing quality control"
+      },
+      "mediaType": "image",
+      "coverImage": "",
+      "coverVideo": "",
+      "videoUrl": "",
+      "motionClips": [],
+      "gallery": [],
+      "summary": {
+        "zh": "未来案例占位。用于记录 AI 生成画面进入商业成片前的修复、合成、画面统一与质感控制方向。",
+        "en": "Future case placeholder for AI-generated footage repair, compositing, visual unification, and finishing control before commercial delivery."
+      },
+      "detail": {
+        "zh": "该案例用于后续整理 AIGC 生成画面的商业化落地实验，包括瑕疵修复、实拍素材整合、色彩与质感统一、镜头连续性处理，以及最终成片的可交付标准控制。",
+        "en": "This case will later document commercial delivery experiments for AI-generated footage, including artifact repair, live-action integration, color and texture unification, shot continuity, and final delivery quality control."
+      },
+      "sourceNote": {
+        "zh": "未来案例，默认隐藏。素材和展示权限确认后再调整展示级别。",
+        "en": "Future case, hidden by default. Display level can be adjusted after materials and permissions are confirmed."
+      },
+      "externalLinks": [],
+      "caseClass": "AIGC",
+      "caseRank": 90,
+      "displayLevel": "hidden",
+      "displayNote": {
+        "zh": "默认隐藏。该案例仅作为后台预留项目，不在客户作品集页面展示。",
+        "en": "Hidden by default. This is reserved in the CMS and is not shown on the client portfolio page."
+      }
+    },
+    {
+      "title": {
+        "zh": "重新搭建生活｜30秒导演型短片实验",
+        "en": "Rebuilding Life | 30-second Director-led Short Film Experiment"
+      },
+      "year": "Future",
+      "client": {
+        "zh": "导演型影像实验",
+        "en": "Director-led Image Experiment"
+      },
+      "role": {
+        "zh": "导演型短片 / 实拍合成 / AI素材整合 / 情绪影像控制",
+        "en": "Director-led short film / live-action compositing / AI asset integration / mood control"
+      },
+      "mediaType": "video",
+      "coverImage": "",
+      "coverVideo": "",
+      "videoUrl": "",
+      "motionClips": [],
+      "gallery": [],
+      "summary": {
+        "zh": "未来案例占位。用于记录 30 秒导演型短片方向，将生活场景、实拍合成、AI素材整合与商业影像质感结合起来。",
+        "en": "Future case placeholder for a 30-second director-led short film combining lived scenes, live-action compositing, AI asset integration, and commercial image craft."
+      },
+      "detail": {
+        "zh": "该案例用于后续整理“重新搭建生活”短片实验，从概念、分镜、拍摄或素材生成，到合成、调色、包装和最终情绪表达，呈现从后期执行走向导演型影像创作的转型方向。",
+        "en": "This case will later document the Rebuilding Life short film experiment, from concept, boards, shooting or generated material, through compositing, grading, packaging, and final mood expression, showing the transition from post-production execution toward director-led image creation."
+      },
+      "sourceNote": {
+        "zh": "未来案例，默认隐藏。短片完成并确认可公开展示后再调整展示级别。",
+        "en": "Future case, hidden by default. Display level can be adjusted after the short film is completed and cleared for public display."
+      },
+      "externalLinks": [],
+      "caseClass": "B",
+      "caseRank": 90,
+      "displayLevel": "hidden",
+      "displayNote": {
+        "zh": "默认隐藏。该案例仅作为后台预留项目，不在客户作品集页面展示。",
+        "en": "Hidden by default. This is reserved in the CMS and is not shown on the client portfolio page."
+      }
+    },
+    {
+      "title": {
+        "zh": "期待更多合作",
+        "en": "Open to More Collaborations"
+      },
+      "year": "Next",
+      "client": {
+        "zh": "新的品牌与内容团队",
+        "en": "New brand and content teams"
+      },
+      "role": {
+        "zh": "视觉动画 / 品牌视觉 / 提案设计 / 内容包装",
+        "en": "Motion design / visual identity / proposal design / content packaging"
+      },
+      "mediaType": "external",
+      "coverImage": "",
+      "coverVideo": "",
+      "videoUrl": "",
+      "motionClips": [],
+      "gallery": [],
+      "summary": {
+        "zh": "这里预留给下一段值得被看见的合作。适合品牌视觉、视觉动画、游戏内容包装、项目提案与跨团队创意协作。",
+        "en": "Reserved for the next collaboration worth showing. Open to brand visuals, motion design, game content packaging, proposal work, and cross-team creative support."
+      },
+      "detail": {
+        "zh": "如果你正在寻找一位能直接沟通、理解内容语境，并把视觉概念推进到可交付画面的合作伙伴，欢迎通过页面底部的联系方式聊聊项目方向、时间计划和交付范围。",
+        "en": "If you are looking for a collaborator who can communicate directly, understand the content context, and turn visual ideas into deliverable work, use the contact section to discuss the project direction, schedule, and scope."
+      },
+      "sourceNote": {
+        "zh": "合作邀请说明。该卡片不对应已完成项目，仅用于补齐作品集节奏并引导新的合作沟通。",
+        "en": "Collaboration note. This card does not represent a completed project; it balances the portfolio grid and invites new conversations."
+      },
+      "displayLevel": "textOnly",
+      "displayNote": {
+        "zh": "合作邀请说明。该卡片不展示项目素材，仅作为新的合作入口。",
+        "en": "Collaboration note. This card does not display project media and serves as an entry point for new work."
+      },
+      "externalLinks": [],
+      "caseClass": "",
+      "caseRank": 999
+    }
+  ],
+  "facts": [
+    {
+      "label": {
+        "zh": "主理人",
+        "en": "Founder"
+      },
+      "value": {
+        "zh": "TYC",
+        "en": "TYC"
+      }
+    },
+    {
+      "label": {
+        "zh": "履历线",
+        "en": "Career Path"
+      },
+      "value": {
+        "zh": "湖南广电体系 / 视觉内容公司合伙经营 / 一人公司",
+        "en": "Hunan Broadcasting System / visual content company partnership / one-person company"
+      }
+    },
+    {
+      "label": {
+        "zh": "长期合作",
+        "en": "Long-term Collaboration"
+      },
+      "value": {
+        "zh": "上海视觉 / 内容制作公司动画包装与合成支持",
+        "en": "Motion packaging and compositing support for Shanghai visual and content production companies"
+      }
+    },
+    {
+      "label": {
+        "zh": "项目链路",
+        "en": "Project Pipelines"
+      },
+      "value": {
+        "zh": "腾讯、米哈游等大厂相关项目链路",
+        "en": "Project pipelines connected to major clients such as Tencent and miHoYo"
+      }
+    },
+    {
+      "label": {
+        "zh": "AIGC 转型",
+        "en": "AIGC Transition"
+      },
+      "value": {
+        "zh": "AIGC 视觉增强 / 导演型影像创作",
+        "en": "AIGC visual enhancement / director-led image creation"
+      }
+    }
+  ],
+  "contacts": [
+    {
+      "label": {
+        "zh": "邮箱",
+        "en": "Email"
+      },
+      "value": {
+        "zh": "hello@shixing.studio",
+        "en": "hello@shixing.studio"
+      },
+      "href": "mailto:hello@shixing.studio"
+    },
+    {
+      "label": {
+        "zh": "电话",
+        "en": "Phone"
+      },
+      "value": {
+        "zh": "13687367021",
+        "en": "13687367021"
+      },
+      "href": "tel:+8613687367021"
+    },
+    {
+      "label": {
+        "zh": "网站",
+        "en": "Website"
+      },
+      "value": {
+        "zh": "www.shixing.studio",
+        "en": "www.shixing.studio"
+      },
+      "href": "https://www.shixing.studio"
+    },
+    {
+      "label": {
+        "zh": "城市",
+        "en": "Location"
+      },
+      "value": {
+        "zh": "中国武汉/长沙",
+        "en": "Wuhan / Changsha, China"
+      },
+      "href": ""
+    }
+  ]
+}

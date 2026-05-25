@@ -1,0 +1,10 @@
+server.*.log
+.tmp-*/
+dist/
+*.zip
+
+# Large project media should live in OSS/CDN and be referenced by URL in content/site.json.
+assets/projects/*.mp4
+assets/projects/*.webm
+assets/uploads/*.mp4
+assets/uploads/*.webm

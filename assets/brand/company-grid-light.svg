@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-label="Shixing Studio modular grid visual">
+  <rect width="1600" height="1000" fill="#F7F6F2"/>
+  <g stroke="#172033" stroke-opacity=".18" stroke-width="1">
+    <path d="M112 0v1000M246 0v1000M380 0v1000M514 0v1000M648 0v1000M782 0v1000M916 0v1000M1050 0v1000M1184 0v1000M1318 0v1000M1452 0v1000"/>
+    <path d="M0 112h1600M0 236h1600M0 360h1600M0 484h1600M0 608h1600M0 732h1600M0 856h1600"/>
+  </g>
+  <g fill="#172033">
+    <rect x="112" y="112" width="292" height="5"/>
+    <rect x="112" y="112" width="5" height="292"/>
+    <rect x="1150" y="188" width="290" height="64"/>
+    <rect x="1284" y="688" width="42" height="192"/>
+  </g>
+  <g fill="#B33A2E">
+    <circle cx="404" cy="404" r="14"/>
+    <circle cx="1150" cy="252" r="14"/>
+    <circle cx="1326" cy="688" r="14"/>
+  </g>
+  <g fill="#B33A2E" opacity=".36">
+    <circle cx="1060" cy="640" r="3"/><circle cx="1100" cy="640" r="3"/><circle cx="1140" cy="640" r="3"/><circle cx="1180" cy="640" r="3"/><circle cx="1220" cy="640" r="3"/>
+    <circle cx="1060" cy="680" r="3"/><circle cx="1100" cy="680" r="3"/><circle cx="1140" cy="680" r="3"/><circle cx="1180" cy="680" r="3"/><circle cx="1220" cy="680" r="3"/>
+    <circle cx="1060" cy="720" r="3"/><circle cx="1100" cy="720" r="3"/><circle cx="1140" cy="720" r="3"/><circle cx="1180" cy="720" r="3"/><circle cx="1220" cy="720" r="3"/>
+  </g>
+  <text x="112" y="820" fill="#172033" font-family="Montserrat, Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="8">SYSTEM / MOTION / VISUAL</text>
+  <text x="112" y="880" fill="#2E2E2E" fill-opacity=".62" font-family="Arial, sans-serif" font-size="28" letter-spacing="3">Founder-led creative studio visual asset</text>
+</svg>

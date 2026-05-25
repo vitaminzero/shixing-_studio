@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1600" role="img" aria-label="Shixing Studio proposal frame visual">
+  <rect width="1200" height="1600" fill="#F7F6F2"/>
+  <g stroke="#172033" stroke-opacity=".14" stroke-width="1">
+    <path d="M96 0v1600M216 0v1600M336 0v1600M456 0v1600M576 0v1600M696 0v1600M816 0v1600M936 0v1600M1056 0v1600"/>
+    <path d="M0 120h1200M0 240h1200M0 360h1200M0 480h1200M0 600h1200M0 720h1200M0 840h1200M0 960h1200M0 1080h1200M0 1200h1200M0 1320h1200M0 1440h1200"/>
+  </g>
+  <rect x="96" y="120" width="288" height="12" fill="#172033"/>
+  <rect x="96" y="120" width="12" height="288" fill="#172033"/>
+  <circle cx="384" cy="408" r="16" fill="#B33A2E"/>
+  <rect x="696" y="240" width="360" height="480" fill="#172033"/>
+  <g fill="#F7F6F2" opacity=".8">
+    <rect x="760" y="320" width="210" height="8"/>
+    <rect x="760" y="372" width="132" height="8"/>
+    <rect x="760" y="424" width="250" height="8"/>
+  </g>
+  <circle cx="760" cy="618" r="14" fill="#B33A2E"/>
+  <text x="96" y="1010" fill="#172033" font-family="Montserrat, Arial, sans-serif" font-size="88" font-weight="800">PROJECT</text>
+  <text x="96" y="1110" fill="#172033" font-family="Montserrat, Arial, sans-serif" font-size="88" font-weight="800">PROPOSAL</text>
+  <text x="100" y="1190" fill="#2E2E2E" fill-opacity=".62" font-family="Arial, sans-serif" font-size="30">Strategy, motion, visual delivery</text>
+  <path d="M96 1370h960" stroke="#172033" stroke-opacity=".35" stroke-width="2"/>
+  <text x="96" y="1450" fill="#2E2E2E" fill-opacity=".72" font-family="Arial, sans-serif" font-size="24" letter-spacing="6">SHIXING STUDIO</text>
+</svg>

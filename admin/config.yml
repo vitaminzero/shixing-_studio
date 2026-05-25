@@ -1,0 +1,177 @@
+backend:
+  name: git-gateway
+  branch: main
+
+# 上线到 GitHub + CMS 时，将 backend 改为 github，并填写 repo 与 OAuth 配置。
+local_backend: true
+
+media_folder: "assets/uploads"
+public_folder: "assets/uploads"
+
+locale: "zh_Hans"
+
+collections:
+  - name: "site"
+    label: "网站内容"
+    files:
+      - name: "site"
+        label: "首页、项目和联系信息"
+        file: "content/site.json"
+        format: "json"
+        fields:
+          - label: "首页主推视频"
+            name: "featuredReel"
+            widget: "object"
+            fields:
+              - label: "标题"
+                name: "title"
+                widget: "object"
+                fields:
+                  - { label: "中文", name: "zh", widget: "string" }
+                  - { label: "English", name: "en", widget: "string" }
+              - label: "说明"
+                name: "description"
+                widget: "object"
+                fields:
+                  - { label: "中文", name: "zh", widget: "text" }
+                  - { label: "English", name: "en", widget: "text" }
+              - { label: "封面图", name: "poster", widget: "image", required: false }
+              - { label: "视频文件或链接", name: "video", widget: "string", required: false }
+          - label: "能力"
+            name: "capabilities"
+            widget: "list"
+            fields:
+              - label: "标题"
+                name: "title"
+                widget: "object"
+                fields:
+                  - { label: "中文", name: "zh", widget: "string" }
+                  - { label: "English", name: "en", widget: "string" }
+              - label: "说明"
+                name: "description"
+                widget: "object"
+                fields:
+                  - { label: "中文", name: "zh", widget: "text" }
+                  - { label: "English", name: "en", widget: "text" }
+          - label: "项目"
+            name: "projects"
+            widget: "list"
+            fields:
+              - label: "标题"
+                name: "title"
+                widget: "object"
+                fields:
+                  - { label: "中文", name: "zh", widget: "string" }
+                  - { label: "English", name: "en", widget: "string" }
+              - { label: "年份", name: "year", widget: "string" }
+              - label: "客户"
+                name: "client"
+                widget: "object"
+                required: false
+                fields:
+                  - { label: "中文", name: "zh", widget: "string", required: false }
+                  - { label: "English", name: "en", widget: "string", required: false }
+              - label: "角色"
+                name: "role"
+                widget: "object"
+                fields:
+                  - { label: "中文", name: "zh", widget: "string" }
+                  - { label: "English", name: "en", widget: "string" }
+              - { label: "媒体类型", name: "mediaType", widget: "select", options: ["video", "image", "mixed", "external"] }
+              - label: "客户作品集展示级别"
+                name: "displayLevel"
+                widget: "select"
+                default: "publicLink"
+                options:
+                  - { label: "完整展示：封面、站内视频、图集、公开链接", value: "full" }
+                  - { label: "公开链接展示：封面、少量图片、参与说明、外部链接", value: "publicLink" }
+                  - { label: "仅文字说明：不显示项目素材", value: "textOnly" }
+                  - { label: "暂不展示：前台隐藏", value: "hidden" }
+              - label: "客户可见说明"
+                name: "displayNote"
+                widget: "object"
+                required: false
+                fields:
+                  - { label: "中文", name: "zh", widget: "text", required: false }
+                  - { label: "English", name: "en", widget: "text", required: false }
+              - { label: "封面图", name: "coverImage", widget: "image", required: false }
+              - { label: "封面视频 WebM/MP4", name: "coverVideo", widget: "string", required: false }
+              - { label: "完整视频链接", name: "videoUrl", widget: "string", required: false }
+              - label: "动效片段"
+                name: "motionClips"
+                widget: "list"
+                required: false
+                fields:
+                  - { label: "片段地址", name: "src", widget: "string" }
+                  - { label: "封面", name: "poster", widget: "image", required: false }
+              - label: "图片集"
+                name: "gallery"
+                widget: "list"
+                required: false
+                field: { label: "图片", name: "image", widget: "image" }
+              - label: "摘要"
+                name: "summary"
+                widget: "object"
+                fields:
+                  - { label: "中文", name: "zh", widget: "text" }
+                  - { label: "English", name: "en", widget: "text" }
+              - label: "详情"
+                name: "detail"
+                widget: "object"
+                fields:
+                  - { label: "中文", name: "zh", widget: "text" }
+                  - { label: "English", name: "en", widget: "text" }
+              - label: "素材来源说明"
+                name: "sourceNote"
+                widget: "object"
+                required: false
+                fields:
+                  - { label: "中文", name: "zh", widget: "text", required: false }
+                  - { label: "English", name: "en", widget: "text", required: false }
+              - label: "外部链接"
+                name: "externalLinks"
+                widget: "list"
+                required: false
+                fields:
+                  - label: "标签"
+                    name: "label"
+                    widget: "object"
+                    fields:
+                      - { label: "中文", name: "zh", widget: "string" }
+                      - { label: "English", name: "en", widget: "string" }
+                  - { label: "链接", name: "url", widget: "string" }
+              - { label: "案例分类", name: "caseClass", widget: "string", required: false }
+              - { label: "排序", name: "caseRank", widget: "number", required: false }
+          - label: "事实信息"
+            name: "facts"
+            widget: "list"
+            fields:
+              - label: "标签"
+                name: "label"
+                widget: "object"
+                fields:
+                  - { label: "中文", name: "zh", widget: "string" }
+                  - { label: "English", name: "en", widget: "string" }
+              - label: "内容"
+                name: "value"
+                widget: "object"
+                fields:
+                  - { label: "中文", name: "zh", widget: "string" }
+                  - { label: "English", name: "en", widget: "string" }
+          - label: "联系方式"
+            name: "contacts"
+            widget: "list"
+            fields:
+              - label: "标签"
+                name: "label"
+                widget: "object"
+                fields:
+                  - { label: "中文", name: "zh", widget: "string" }
+                  - { label: "English", name: "en", widget: "string" }
+              - label: "内容"
+                name: "value"
+                widget: "object"
+                fields:
+                  - { label: "中文", name: "zh", widget: "string" }
+                  - { label: "English", name: "en", widget: "string" }
+              - { label: "链接", name: "href", widget: "string", required: false }
