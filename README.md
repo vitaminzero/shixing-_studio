@@ -24,7 +24,29 @@ node scripts/dev-server.mjs 4190
 - `facts`：关于页事实信息
 - `contacts`：联系方式
 
-后台入口在 `/admin`，使用 Decap CMS 配置。正式部署时需要配置 Git Gateway，或在 GitHub 仓库创建后改成 GitHub backend 与对应 OAuth 配置。
+后台入口在 `/admin`，使用 Decap CMS 配置。正式部署时推荐使用 Netlify + Git Gateway：前台由 Netlify 从 GitHub 仓库根目录发布，后台通过 Git Gateway 把编辑内容提交回 `content/site.json`。
+
+## Netlify 部署
+
+仓库已包含 `netlify.toml`，Netlify 连接 GitHub 仓库后保持默认构建即可：
+
+- Build command：留空
+- Publish directory：`.`
+- Production branch：`main`
+
+上线后在 Netlify 项目里开启：
+
+1. Identity：Enable Identity。
+2. Registration：建议设为 Invite only。
+3. Services > Git Gateway：Enable Git Gateway。
+4. 邀请需要编辑内容的账号。
+
+部署完成后访问：
+
+- 官网：Netlify 分配域名或绑定后的正式域名。
+- 后台：`/admin/`。
+
+后台保存内容时会提交到 GitHub，Netlify 会自动重新部署。当前站点仍按半公开作品集处理，`index.html` 带 `noindex,nofollow`，并通过 `robots.txt` 阻止搜索引擎抓取；如果后续要改成正式公开官网，需要同时移除这两处限制。
 
 项目支持展示分级：
 
