@@ -2,7 +2,8 @@ backend:
   name: git-gateway
   branch: main
 
-# 上线到 GitHub + CMS 时，将 backend 改为 github，并填写 repo 与 OAuth 配置。
+# 正式站使用 Netlify Identity + Git Gateway 写回 GitHub。
+# 本地需要 Decap CMS proxy server 时可保留 local_backend。
 local_backend: true
 
 media_folder: "assets/uploads"

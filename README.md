@@ -2,7 +2,7 @@
 
 这是十行文化的中英双语静态展示网站原型，重点展示个人公司定位、视觉动画能力、精选项目和合作联系方式。
 
-当前定位是“客户可访问的半公开作品集链接”：客户拿到链接即可浏览，但站点不主动做 SEO，入口页带有 `noindex,nofollow`。
+当前定位是可上线的中英双语官网与作品集，内容通过 Git 仓库内的 `content/site.json` 管理，并可在 Netlify 部署后通过 `/admin/` 后台编辑。
 
 ## 本地预览
 
@@ -14,6 +14,12 @@ node scripts/dev-server.mjs 4190
 
 然后访问 `http://localhost:4190`。
 
+如果本机没有可用 Node，也可以运行：
+
+```powershell
+powershell -ExecutionPolicy Bypass -File scripts/dev-server.ps1 4190
+```
+
 ## 内容编辑
 
 核心内容在 `content/site.json`：
@@ -24,7 +30,7 @@ node scripts/dev-server.mjs 4190
 - `facts`：关于页事实信息
 - `contacts`：联系方式
 
-后台入口在 `/admin`，使用 Decap CMS 配置。正式部署时推荐使用 Netlify + Git Gateway：前台由 Netlify 从 GitHub 仓库根目录发布，后台通过 Git Gateway 把编辑内容提交回 `content/site.json`。
+后台入口在 `/admin`，使用 Decap CMS 配置。正式部署时推荐使用 Netlify + Identity + Git Gateway：前台由 Netlify 从 GitHub 仓库根目录发布，后台通过 Git Gateway 把编辑内容提交回 `content/site.json`。
 
 ## Netlify 部署
 
@@ -46,7 +52,7 @@ node scripts/dev-server.mjs 4190
 - 官网：Netlify 分配域名或绑定后的正式域名。
 - 后台：`/admin/`。
 
-后台保存内容时会提交到 GitHub，Netlify 会自动重新部署。当前站点仍按半公开作品集处理，`index.html` 带 `noindex,nofollow`，并通过 `robots.txt` 阻止搜索引擎抓取；如果后续要改成正式公开官网，需要同时移除这两处限制。
+后台保存内容时会提交到 GitHub，Netlify 会自动重新部署。当前已按正式官网处理，`robots.txt` 允许搜索引擎抓取；如后续需要改回半公开作品集，可重新加入 `noindex,nofollow` 并在 `robots.txt` 中阻止抓取。
 
 项目支持展示分级：
 
