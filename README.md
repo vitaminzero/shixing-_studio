@@ -30,7 +30,7 @@ powershell -ExecutionPolicy Bypass -File scripts/dev-server.ps1 4190
 - `facts`：关于页事实信息
 - `contacts`：联系方式
 
-后台入口在 `/admin`，使用 Decap CMS 配置。当前线上后台通过 GitHub OAuth 写回 Netlify 实际部署仓库 `vitaminyuchun-del/shixing-_studio` 的 `content/site.json`。
+后台入口在 `/admin`，使用 Decap CMS 配置。当前线上后台通过 Netlify Identity + Git Gateway 写回 Netlify 实际部署仓库 `vitaminyuchun-del/shixing-_studio` 的 `content/site.json`。
 
 ## Netlify 部署
 
@@ -43,8 +43,9 @@ powershell -ExecutionPolicy Bypass -File scripts/dev-server.ps1 4190
 上线后需要确认：
 
 1. Netlify 项目已连接 GitHub 仓库。
-2. GitHub 登录账号对部署仓库有写入权限。
-3. `/admin/` 登录 GitHub 后可保存内容。
+2. Identity 已启用，并邀请需要编辑内容的账号。
+3. Services > Git Gateway 已启用。
+4. `/admin/` 使用 Netlify Identity 登录后可保存内容。
 
 部署完成后访问：
 
