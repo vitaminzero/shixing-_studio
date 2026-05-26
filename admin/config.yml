@@ -1,8 +1,10 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: vitaminyuchun-del/shixing-_studio
   branch: main
 
-# 正式站使用 Netlify Identity + Git Gateway 写回 GitHub。
+# 正式站使用 GitHub OAuth 写回当前 Netlify 部署仓库。
+# 如后续 Netlify Git Gateway 在控制台成功启用，可改回 name: git-gateway。
 # 本地需要 Decap CMS proxy server 时可保留 local_backend。
 local_backend: true
 
