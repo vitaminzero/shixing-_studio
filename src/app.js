@@ -5,32 +5,41 @@ const state = {
 };
 
 const displayLevels = new Set(["full", "publicLink", "textOnly", "hidden"]);
+const projectClassOrder = new Map([
+  ["A", 1],
+  ["GamePV", 2],
+  ["ThreeD", 3],
+  ["Support", 4],
+  ["AIGC", 5],
+  ["B", 6],
+  ["", 7],
+]);
 
 let revealObserver = null;
 
 const i18n = {
   zh: {
-    nav: { work: "项目", motion: "动效", about: "关于", contact: "联系" },
+    nav: { work: "项目", motion: "能力", about: "关于", contact: "联系" },
     hero: {
-      kicker: "十行文化 / SHIXING STUDIO",
+      kicker: "TYC / 十行文化",
       title: "商业影像合成与 AIGC 视觉增强设计师",
-      lede: "擅长实拍合成、动画包装、三维/AI素材整合与商业成片质感控制；正在向导演型影像创作者转型。",
+      lede: "Motion Compositing / AIGC Visual Enhancement / Director-oriented Creator",
       ctaPrimary: "联系合作",
       ctaSecondary: "查看项目",
       reelLabel: "Featured Motion Reel",
     },
     motion: {
-      title: "动态视觉能力",
-      body: "用短循环、视频封面和项目片段，让合作方在几秒内看到节奏、质感与执行力。",
+      title: "核心能力",
+      body: "围绕商业影像合成、动画包装与 AIGC 视觉增强，集中展示可直接服务商业成片的后期执行与视觉整合能力。",
     },
     work: {
       title: "精选项目",
-      body: "每个案例强调背景、角色、成果和可观看的视觉素材。",
+      body: "项目分为实拍合成、动画包装、三维辅助、大厂项目链路与 AIGC 实验。部分项目因客户版权限制，仅展示公开链接、职责说明或阶段性画面。",
       view: "查看详情",
       external: "外部链接",
       textOnly: "项目说明",
       filterAll: "全部",
-      filterA: "实拍合成",
+      filterA: "商业影像合成",
       filterGamePV: "动画包装",
       filter3D: "三维辅助",
       filterSupport: "大厂项目链路",
@@ -38,41 +47,37 @@ const i18n = {
       filterB: "导演型实验",
       count: "个案例",
     },
-    visual: {
-      title: "TYC 视觉场景作品",
-      body: "以电影感场景、奇幻写实空间和氛围叙事，展示个人视觉方向与画面控制力。",
-    },
     about: {
       title: "关于十行文化",
-      body: "我是一名商业影像合成与动画包装设计师，职业路径从湖南广电体系开始，之后参与视觉内容公司的合伙经营，目前以一人公司形式承接项目。\n\n自由职业与公司项目期间，我长期服务上海视觉 / 内容制作公司，为其提供动画包装、实拍合成与商业成片质感控制支持，并参与腾讯、米哈游等大厂相关项目链路。\n\n目前正在从传统后期执行与视觉包装，转向 AIGC 视觉增强和导演型影像创作：把实拍合成、三维/AI素材整合、画面修复与动态包装经验结合起来，形成更高效、更具表达力的商业影像工作流。",
+      body: "我是一名商业影像合成与动画包装设计师，曾在湖南广电体系工作，后参与视觉内容公司合伙经营，目前以一人公司形式承接项目。长期为上海视觉/内容制作公司提供动画包装、实拍合成与商业成片支持，并参与腾讯、米哈游等大厂相关项目链路。\n\n目前重点探索 AIGC 工具在实拍合成、商业影像增强和导演型短片中的应用。",
     },
     contact: {
       title: "联系合作",
-      body: "适合品牌视觉、视觉动画、项目提案、内容包装与跨团队创意协作。",
+      body: "可合作方向：实拍合成、商业影像后期、动画包装、品牌视频、AIGC视觉增强、AI生成素材修复与成片质感统一。\n\n适合品牌短片、产品概念片、内容包装、发布会视觉、AIGC影像实验及远程项目制合作。",
     },
   },
   en: {
-    nav: { work: "Work", motion: "Motion", about: "About", contact: "Contact" },
+    nav: { work: "Work", motion: "Capabilities", about: "About", contact: "Contact" },
     hero: {
-      kicker: "Shixing Studio / Solo Practice",
+      kicker: "TYC / Shixing Studio",
       title: "Commercial Compositing & AIGC Visual Enhancement Designer",
-      lede: "Specialized in live-action compositing, motion packaging, 3D/AI asset integration, and commercial finishing quality control; now transitioning toward director-led image creation.",
+      lede: "Motion Compositing / AIGC Visual Enhancement / Director-oriented Creator",
       ctaPrimary: "Start a Collaboration",
       ctaSecondary: "View Work",
       reelLabel: "Featured Motion Reel",
     },
     motion: {
-      title: "Motion Capability",
-      body: "Short loops, video covers, and project clips make rhythm, craft, and execution visible within seconds.",
+      title: "Core Capabilities",
+      body: "Focused on commercial compositing, motion packaging, and AIGC visual enhancement for delivery-ready image work.",
     },
     work: {
       title: "Selected Projects",
-      body: "Each case highlights context, role, outcome, and viewable visual material.",
+      body: "Projects are grouped across live-action compositing, motion packaging, 3D support, major client pipelines, and AIGC experiments. Some projects are limited by client copyright and are shown through public links, role descriptions, or selected in-progress visuals.",
       view: "View Detail",
       external: "External Link",
       textOnly: "Project Note",
       filterAll: "All",
-      filterA: "Live-action / Compositing",
+      filterA: "Commercial Compositing",
       filterGamePV: "Motion Packaging",
       filter3D: "3D Support",
       filterSupport: "Major Client Pipelines",
@@ -80,17 +85,13 @@ const i18n = {
       filterB: "Director-led Experiments",
       count: "cases",
     },
-    visual: {
-      title: "TYC Cinematic Visuals",
-      body: "Cinematic scenes, fantasy-realistic spaces, and atmospheric storytelling show TYC's visual direction and image craft.",
-    },
     about: {
       title: "About Shixing Studio",
-      body: "I am a commercial image compositing and motion packaging designer. My career path began within the Hunan Broadcasting System, later moved into the partnership operation of a visual content company, and now continues through a one-person company.\n\nAcross freelance and company-side projects, I have long served visual and content production companies in Shanghai, providing motion packaging, live-action compositing, and commercial finishing support while participating in project pipelines connected to major clients such as Tencent and miHoYo.\n\nI am now transitioning from traditional post-production execution and visual packaging toward AIGC visual enhancement and director-led image creation, combining live-action compositing, 3D/AI asset integration, image repair, and motion packaging into a more efficient and expressive commercial image workflow.",
+      body: "I am a commercial image compositing and motion packaging designer. I previously worked within the Hunan Broadcasting System, later participated in the partnership operation of a visual content company, and now take on projects through a one-person company. I have long supported Shanghai visual and content production companies with motion packaging, live-action compositing, and commercial finishing, while participating in project pipelines connected to Tencent, miHoYo, and other major clients.\n\nI am currently focused on applying AIGC tools to live-action compositing, commercial image enhancement, and director-led short films.",
     },
     contact: {
       title: "Contact",
-      body: "Open to brand visuals, motion design, proposal design, content packaging, and cross-team creative collaboration.",
+      body: "Collaboration areas: live-action compositing, commercial image post-production, motion packaging, brand videos, AIGC visual enhancement, AI-generated material repair, and finishing-quality unification.\n\nSuitable for brand films, product concept films, content packaging, launch-event visuals, AIGC image experiments, and remote project-based collaboration.",
     },
   },
 };
@@ -290,7 +291,13 @@ function getFilteredProjects() {
 function getVisibleProjects() {
   return (state.content.projects || [])
     .map((project, index) => ({ project, index }))
-    .filter(({ project }) => getProjectDisplayLevel(project) !== "hidden");
+    .filter(({ project }) => getProjectDisplayLevel(project) !== "hidden")
+    .sort((a, b) => getProjectSortValue(a.project, a.index) - getProjectSortValue(b.project, b.index));
+}
+
+function getProjectSortValue(project, index) {
+  const classOrder = projectClassOrder.get(project?.caseClass || "") || 99;
+  return classOrder * 10000 + index;
 }
 
 function getProjectDisplayLevel(project) {
@@ -475,7 +482,7 @@ function closeDialog() {
 }
 
 function setupRevealAnimations() {
-  const items = document.querySelectorAll(".capability-item, .project-card, .visual-strip figure, .career-timeline li, .contact-links > *");
+  const items = document.querySelectorAll(".capability-item, .project-card, .career-timeline li, .contact-links > *");
   if (!items.length) return;
 
   if (!("IntersectionObserver" in window)) {

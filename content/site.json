@@ -18,8 +18,8 @@
         "en": "Commercial Compositing"
       },
       "description": {
-        "zh": "面向商业短片、宣传片与实拍内容的画面合成、修补、增强和视觉整合。",
-        "en": "Compositing, cleanup, enhancement, and visual integration for commercial films, promotional videos, and live-action content."
+        "zh": "实拍修补、画面瑕疵擦除、光影统一、素材整合、商业成片质感控制。",
+        "en": "Live-action cleanup, visual imperfection removal, lighting continuity, asset integration, and commercial finishing quality control."
       }
     },
     {
@@ -28,8 +28,8 @@
         "en": "Motion Packaging & Dynamic Visuals"
       },
       "description": {
-        "zh": "为品牌、游戏内容和传播项目提供片头、信息包装、动态版式与节奏化视觉表达。",
-        "en": "Title sequences, information packaging, motion layouts, and rhythm-driven visual expression for brands, game content, and communication projects."
+        "zh": "片头片尾、字幕包装、转场系统、品牌动态视觉、栏目/内容包装。",
+        "en": "Openings and endings, subtitle packaging, transition systems, brand motion identity, and program/content packaging."
       }
     },
     {
@@ -38,8 +38,8 @@
         "en": "AIGC Visual Enhancement"
       },
       "description": {
-        "zh": "探索 AI 工具在实拍合成、商业影像增强、动态包装和导演型短片中的可控应用。",
-        "en": "Exploring controlled AI-assisted workflows for live-action compositing, commercial image enhancement, motion packaging, and director-led short films."
+        "zh": "将AI生成素材、三维素材与实拍素材结合，通过合成、调色、修复和包装转化为可交付影像。",
+        "en": "Combining AI-generated, 3D, and live-action assets, then turning them into deliverable images through compositing, grading, repair, and motion packaging."
       }
     }
   ],
@@ -1587,8 +1587,8 @@
         "en": "New brand and content teams"
       },
       "role": {
-        "zh": "视觉动画 / 品牌视觉 / 提案设计 / 内容包装",
-        "en": "Motion design / visual identity / proposal design / content packaging"
+        "zh": "实拍合成 / 商业影像后期 / 动画包装 / AIGC视觉增强",
+        "en": "Live-action compositing / commercial image post / motion packaging / AIGC visual enhancement"
       },
       "mediaType": "external",
       "coverImage": "",
@@ -1597,12 +1597,12 @@
       "motionClips": [],
       "gallery": [],
       "summary": {
-        "zh": "这里预留给下一段值得被看见的合作。适合品牌视觉、视觉动画、游戏内容包装、项目提案与跨团队创意协作。",
-        "en": "Reserved for the next collaboration worth showing. Open to brand visuals, motion design, game content packaging, proposal work, and cross-team creative support."
+        "zh": "可合作方向：实拍合成、商业影像后期、动画包装、品牌视频、AIGC视觉增强、AI生成素材修复与成片质感统一。",
+        "en": "Collaboration areas include live-action compositing, commercial image post-production, motion packaging, brand videos, AIGC visual enhancement, AI-generated material repair, and finishing-quality unification."
       },
       "detail": {
-        "zh": "如果你正在寻找一位能直接沟通、理解内容语境，并把视觉概念推进到可交付画面的合作伙伴，欢迎通过页面底部的联系方式聊聊项目方向、时间计划和交付范围。",
-        "en": "If you are looking for a collaborator who can communicate directly, understand the content context, and turn visual ideas into deliverable work, use the contact section to discuss the project direction, schedule, and scope."
+        "zh": "适合品牌短片、产品概念片、内容包装、发布会视觉、AIGC影像实验及远程项目制合作。欢迎通过页面底部的联系方式聊聊项目方向、时间计划和交付范围。",
+        "en": "Suitable for brand films, product concept films, content packaging, launch-event visuals, AIGC image experiments, and remote project-based collaboration. Use the contact section to discuss direction, schedule, and scope."
       },
       "sourceNote": {
         "zh": "合作邀请说明。该卡片不对应已完成项目，仅用于补齐作品集节奏并引导新的合作沟通。",

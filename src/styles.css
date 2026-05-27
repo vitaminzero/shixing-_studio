@@ -520,7 +520,6 @@ h3 {
 
 .motion-band,
 .work-section,
-.visual-showcase,
 .about-section,
 .contact-section {
   padding: clamp(72px, 9vw, 132px) clamp(20px, 5vw, 72px);
@@ -901,31 +900,6 @@ h3 {
   font-size: 12px;
 }
 
-.visual-showcase {
-  background: var(--deep-gray);
-  color: var(--off-white);
-}
-
-.visual-showcase .section-heading p:not(.section-index) {
-  color: rgba(247, 246, 242, 0.68);
-}
-
-.visual-strip {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1px;
-  max-width: var(--max);
-  margin: 0 auto;
-  background: var(--light-line);
-  border: 1px solid var(--light-line);
-}
-
-.visual-strip figure {
-  margin: 0;
-  min-width: 0;
-  background: #000;
-}
-
 .reveal-item {
   opacity: 0;
   transform: translate3d(0, 28px, 0);
@@ -937,12 +911,6 @@ h3 {
 .reveal-item.is-visible {
   opacity: 1;
   transform: translate3d(0, 0, 0);
-}
-
-.visual-strip img {
-  width: 100%;
-  aspect-ratio: 16 / 9;
-  object-fit: cover;
 }
 
 .project-actions {
@@ -1262,10 +1230,6 @@ h3 {
   .capability-grid,
   .project-grid,
   .contact-links {
-    grid-template-columns: 1fr;
-  }
-
-  .visual-strip {
     grid-template-columns: 1fr;
   }
 
